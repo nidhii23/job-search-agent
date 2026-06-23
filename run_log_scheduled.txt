@@ -67,3 +67,120 @@
 [2026-06-23 21:36:08] ======================================================================
 [2026-06-23 21:36:08] ✓ Run Complete
 [2026-06-23 21:36:08] ======================================================================
+[2026-06-23 21:44:23] ======================================================================
+[2026-06-23 21:44:23] JOB SEARCH AGENT - Starting Scrape
+[2026-06-23 21:44:23] ======================================================================
+[2026-06-23 21:44:23] Previously seen jobs: 0
+[2026-06-23 21:44:23] 
+▶ Role: Full Stack Developer
+[2026-06-23 21:44:23]   Searching: 'Full Stack Developer' in Ohio...
+[2026-06-23 21:44:23] Status Code: 404
+[2026-06-23 21:44:23] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:23]     Found 0 jobs (0 new)
+[2026-06-23 21:44:23]   Searching: 'Full Stack Engineer' in Ohio...
+[2026-06-23 21:44:23] Status Code: 404
+[2026-06-23 21:44:23] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:23]     Found 0 jobs (0 new)
+[2026-06-23 21:44:23]   Searching: 'Full Stack Developer' in Cincinnati...
+[2026-06-23 21:44:23] Status Code: 404
+[2026-06-23 21:44:23] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:23]     Found 0 jobs (0 new)
+[2026-06-23 21:44:23]   Searching: 'Full Stack Engineer' in Cincinnati...
+[2026-06-23 21:44:24] Status Code: 404
+[2026-06-23 21:44:24] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:24]     Found 0 jobs (0 new)
+[2026-06-23 21:44:24]   Searching: 'Full Stack Developer' in ...
+[2026-06-23 21:44:24] Status Code: 404
+[2026-06-23 21:44:24] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:24]     Found 0 jobs (0 new)
+[2026-06-23 21:44:24]   Searching: 'Full Stack Engineer' in ...
+[2026-06-23 21:44:24] Status Code: 404
+[2026-06-23 21:44:24] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:24]     Found 0 jobs (0 new)
+[2026-06-23 21:44:24] 
+▶ Role: Software Engineer
+[2026-06-23 21:44:24]   Searching: 'Software Engineer' in Ohio...
+[2026-06-23 21:44:24] Status Code: 404
+[2026-06-23 21:44:24] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:24]     Found 0 jobs (0 new)
+[2026-06-23 21:44:24]   Searching: 'Software Developer' in Ohio...
+[2026-06-23 21:44:24] Status Code: 404
+[2026-06-23 21:44:24] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:24]     Found 0 jobs (0 new)
+[2026-06-23 21:44:24]   Searching: 'Software Engineer' in Cincinnati...
+[2026-06-23 21:44:24] Status Code: 404
+[2026-06-23 21:44:24] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:24]     Found 0 jobs (0 new)
+[2026-06-23 21:44:24]   Searching: 'Software Developer' in Cincinnati...
+[2026-06-23 21:44:24] Status Code: 404
+[2026-06-23 21:44:24] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:24]     Found 0 jobs (0 new)
+[2026-06-23 21:44:24]   Searching: 'Software Engineer' in ...
+[2026-06-23 21:44:24] Status Code: 404
+[2026-06-23 21:44:24] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:24]     Found 0 jobs (0 new)
+[2026-06-23 21:44:24]   Searching: 'Software Developer' in ...
+[2026-06-23 21:44:25] Status Code: 404
+[2026-06-23 21:44:25] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:25]     Found 0 jobs (0 new)
+[2026-06-23 21:44:25] 
+▶ Role: Data Engineer
+[2026-06-23 21:44:25]   Searching: 'Data Engineer' in Ohio...
+[2026-06-23 21:44:25] Status Code: 404
+[2026-06-23 21:44:25] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:25]     Found 0 jobs (0 new)
+[2026-06-23 21:44:25]   Searching: 'ETL Developer' in Ohio...
+[2026-06-23 21:44:25] Status Code: 404
+[2026-06-23 21:44:25] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:25]     Found 0 jobs (0 new)
+[2026-06-23 21:44:25]   Searching: 'Data Engineer' in Cincinnati...
+[2026-06-23 21:44:25] Status Code: 404
+[2026-06-23 21:44:25] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:25]     Found 0 jobs (0 new)
+[2026-06-23 21:44:25]   Searching: 'ETL Developer' in Cincinnati...
+[2026-06-23 21:44:25] Status Code: 404
+[2026-06-23 21:44:25] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:25]     Found 0 jobs (0 new)
+[2026-06-23 21:44:25]   Searching: 'Data Engineer' in ...
+[2026-06-23 21:44:25] Status Code: 404
+[2026-06-23 21:44:25] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:25]     Found 0 jobs (0 new)
+[2026-06-23 21:44:25]   Searching: 'ETL Developer' in ...
+[2026-06-23 21:44:25] Status Code: 404
+[2026-06-23 21:44:25] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:25]     Found 0 jobs (0 new)
+[2026-06-23 21:44:25] 
+▶ Role: Data Analyst
+[2026-06-23 21:44:25]   Searching: 'Data Analyst' in Ohio...
+[2026-06-23 21:44:25] Status Code: 404
+[2026-06-23 21:44:25] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:25]     Found 0 jobs (0 new)
+[2026-06-23 21:44:25]   Searching: 'Business Analyst' in Ohio...
+[2026-06-23 21:44:25] Status Code: 404
+[2026-06-23 21:44:25] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:25]     Found 0 jobs (0 new)
+[2026-06-23 21:44:25]   Searching: 'Data Analyst' in Cincinnati...
+[2026-06-23 21:44:26] Status Code: 404
+[2026-06-23 21:44:26] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:26]     Found 0 jobs (0 new)
+[2026-06-23 21:44:26]   Searching: 'Business Analyst' in Cincinnati...
+[2026-06-23 21:44:26] Status Code: 404
+[2026-06-23 21:44:26] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:26]     Found 0 jobs (0 new)
+[2026-06-23 21:44:26]   Searching: 'Data Analyst' in ...
+[2026-06-23 21:44:26] Status Code: 404
+[2026-06-23 21:44:26] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:26]     Found 0 jobs (0 new)
+[2026-06-23 21:44:26]   Searching: 'Business Analyst' in ...
+[2026-06-23 21:44:26] Status Code: 404
+[2026-06-23 21:44:26] Response: {"message":"Endpoint '\/search' does not exist"}
+[2026-06-23 21:44:26]     Found 0 jobs (0 new)
+[2026-06-23 21:44:26] 
+======================================================================
+[2026-06-23 21:44:26] Total API results: 0
+[2026-06-23 21:44:26] New jobs found: 0
+[2026-06-23 21:44:26] No new jobs to save
+[2026-06-23 21:44:26] Total jobs in database: 0
+[2026-06-23 21:44:26] ======================================================================
+[2026-06-23 21:44:26] ✓ Run Complete
+[2026-06-23 21:44:26] ======================================================================
