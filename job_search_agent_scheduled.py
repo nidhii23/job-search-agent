@@ -10,7 +10,7 @@ from pathlib import Path
 from typing import List, Dict
 
 CONFIG = {
-    "locations": ["Ohio, US", "Cincinnati, Ohio", "USA"],
+    "locations": ["Ohio, US", "Cincinnati, Ohio", ""],
     "date_posted": "today",
     "max_jobs_per_search": 15,
     "employment_types": "FULLTIME,CONTRACTOR,PARTTIME",
@@ -88,27 +88,53 @@ class SeenJobsDB:
         return len(self.db["jobs"])
 
 def fetch_jobs(query: str, location: str) -> List[Dict]:
-    """Fetch jobs from JSearch API"""
-    url = "https://jsearch.p.rapidapi.com/search"
-    headers = {
-        "x-rapidapi-key": CONFIG["jsearch_api_key"],
-        "x-rapidapi-host": "jsearch.p.rapidapi.com"
-    }
-    params = {
-        "query": f"{query} in {location}",
-        "date_posted": CONFIG["date_posted"],
-        "employment_types": CONFIG["employment_types"],
-        "page": 1,
-        "num_pages": 1,
-    }
-    
-    try:
-        response = requests.get(url, headers=headers, params=params, timeout=CONFIG["api_timeout"])
-        if response.status_code == 200:
-            return response.json().get("data", [])
-    except Exception as e:
-        log(f"  [ERROR] API failed: {str(e)[:60]}")
+"""Fetch jobs from JSearch API"""
+url = "https://jsearch.p.rapidapi.com/search"
+
+```
+headers = {
+    "x-rapidapi-key": CONFIG["jsearch_api_key"],
+    "x-rapidapi-host": "jsearch.p.rapidapi.com"
+}
+
+if location:
+    search_query = f"{query} in {location}"
+else:
+    search_query = query
+
+params = {
+    "query": search_query,
+    "date_posted": CONFIG["date_posted"],
+    "employment_types": CONFIG["employment_types"],
+    "page": 1,
+    "num_pages": 1,
+}
+
+try:
+    response = requests.get(
+        url,
+        headers=headers,
+        params=params,
+        timeout=CONFIG["api_timeout"]
+    )
+
+    log(f"Status Code: {response.status_code}")
+
+    if response.status_code != 200:
+        log(f"Response: {response.text[:500]}")
+        return []
+
+    data = response.json()
+
+    log(f"API Response Preview: {str(data)[:500]}")
+
+    return data.get("data", [])
+
+except Exception as e:
+    log(f"  [ERROR] API failed: {str(e)[:200]}")
     return []
+```
+
 
 def parse_job(raw: Dict, role: str) -> Dict:
     """Parse raw job data from API"""
