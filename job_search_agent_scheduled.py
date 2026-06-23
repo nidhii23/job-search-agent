@@ -130,7 +130,7 @@ def fetch_jobs(query: str, location: str) -> List[Dict]:
         log(f"Keys returned: {list(data.keys())}")
         log(f"API Response Preview: {str(data)[:1000]}")
 
-        return data.get("data", [])
+        return data.get("data", {}).get("jobs", [])
 
     except Exception as e:
         log(f"[ERROR] API failed: {str(e)[:200]}")
