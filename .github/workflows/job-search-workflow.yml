@@ -69,7 +69,7 @@ jobs:
           
           echo ""
           echo "=== Adding files ==="
-          git add jobs_scheduled.csv run_log_scheduled.txt seen_jobs_scheduled.json
+          git add -A
           
           echo ""
           echo "=== Git Status After Add ==="
