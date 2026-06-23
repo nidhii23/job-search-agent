@@ -90,11 +90,12 @@ class SeenJobsDB:
 def fetch_jobs(query: str, location: str) -> List[Dict]:
     """Fetch jobs from JSearch API"""
 
-    url = "https://jsearch.p.rapidapi.com/search"
+    url = "https://jsearch.p.rapidapi.com/search-v2"
 
     headers = {
         "x-rapidapi-key": CONFIG["jsearch_api_key"],
-        "x-rapidapi-host": "jsearch.p.rapidapi.com"
+        "x-rapidapi-host": "jsearch.p.rapidapi.com",
+        "Content-Type": "application/json"
     }
 
     if location:
@@ -104,10 +105,9 @@ def fetch_jobs(query: str, location: str) -> List[Dict]:
 
     params = {
         "query": search_query,
-        "date_posted": CONFIG["date_posted"],
-        "employment_types": CONFIG["employment_types"],
-        "page": 1,
-        "num_pages": 1,
+        "num_pages": "1",
+        "country": "us",
+        "date_posted": "all"
     }
 
     try:
@@ -121,12 +121,14 @@ def fetch_jobs(query: str, location: str) -> List[Dict]:
         log(f"Status Code: {response.status_code}")
 
         if response.status_code != 200:
-            log(f"Response: {response.text[:500]}")
+            log(f"Response: {response.text[:1000]}")
             return []
 
         data = response.json()
 
-        log(f"API Response Preview: {str(data)[:500]}")
+        # Debug output
+        log(f"Keys returned: {list(data.keys())}")
+        log(f"API Response Preview: {str(data)[:1000]}")
 
         return data.get("data", [])
 
