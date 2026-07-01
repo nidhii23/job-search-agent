@@ -1268,3 +1268,123 @@
 [2026-06-30 11:49:47] ======================================================================
 [2026-06-30 11:49:47] ✓ Run Complete
 [2026-06-30 11:49:47] ======================================================================
+[2026-07-01 12:10:45] ======================================================================
+[2026-07-01 12:10:45] JOB SEARCH AGENT - Starting Scrape
+[2026-07-01 12:10:45] ======================================================================
+[2026-07-01 12:10:45] Previously seen jobs: 642
+[2026-07-01 12:10:45] 
+▶ Role: Full Stack Developer
+[2026-07-01 12:10:45]   Searching: 'Full Stack Developer' in Ohio...
+[2026-07-01 12:10:50] Status Code: 200
+[2026-07-01 12:10:50] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-07-01 12:10:50] API Response Preview: {'status': 'OK', 'request_id': '055ede9a-8f9f-41b2-83dc-87619694d4e7', 'parameters': {'query': 'Full Stack Developer in Ohio', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'bHQKFEgUgLKGsz64AAAAAA==', 'job_title': 'Senior Full Stack Java Developer', 'employer_name': 'Olik Global', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxEskey0usgcN295yBNrzn_PgmWvCO0_SVz1a1&s=0', 'employer_website': None, 'job_publisher': 'LinkedIn', 'job_employment_type': 'Full-time', 'job_employment_types': ['FULLTIME'], 'job_apply_link': 'https://www.linkedin.com/jobs/view/senior-full-stack-java-developer-at-olik-global-4434790171', 'job_apply_is_direct': False, 'apply_options': [{'apply_link': 'https://www.linkedin.com/jobs/view/senior-full-stack-java-developer-at-olik-global-4434790171', 'is_direct': False, 'publisher': 'LinkedIn'}], 'job_description': 'Job Title: Senior Full Stack Java developer\n\nJob Type: Full-Time\n\nLoc
+[2026-07-01 12:10:50]     Found 10 jobs (0 new)
+[2026-07-01 12:10:50]   Searching: 'Full Stack Engineer' in Ohio...
+[2026-07-01 12:11:05] [ERROR] API failed: HTTPSConnectionPool(host='jsearch.p.rapidapi.com', port=443): Read timed out. (read timeout=15)
+[2026-07-01 12:11:05]     Found 0 jobs (0 new)
+[2026-07-01 12:11:05]   Searching: 'Full Stack Developer' in Cincinnati...
+[2026-07-01 12:11:14] Status Code: 200
+[2026-07-01 12:11:14] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-07-01 12:11:14] API Response Preview: {'status': 'OK', 'request_id': '3080742a-d1ad-4c29-8e18-8b7eff6910e5', 'parameters': {'query': 'Full Stack Developer in Cincinnati', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'Bi3wtWeW9hEurKu-AAAAAA==', 'job_title': 'Full Stack Developer- React / Next / Node / E-Commerce', 'employer_name': 'Formica Group North America', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnf9zAJMG9_ujkKqkAu-G6tJ78xzXNyudmocVp&s=0', 'employer_website': None, 'job_publisher': 'LinkedIn', 'job_employment_type': 'Full-time', 'job_employment_types': ['FULLTIME'], 'job_apply_link': 'https://www.linkedin.com/jobs/view/full-stack-developer-react-next-node-e-commerce-at-formica-group-north-america-4423253927', 'job_apply_is_direct': False, 'apply_options': [{'apply_link': 'https://www.linkedin.com/jobs/view/full-stack-developer-react-next-node-e-commerce-at-formica-group-north-america-4423253927', 'is_direct': False, 'publisher': '
+[2026-07-01 12:11:14]     Found 10 jobs (2 new)
+[2026-07-01 12:11:14]   Searching: 'Full Stack Engineer' in Cincinnati...
+[2026-07-01 12:11:27] Status Code: 200
+[2026-07-01 12:11:27] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-07-01 12:11:27] API Response Preview: {'status': 'OK', 'request_id': 'fc3fa066-71dd-4bb0-8565-10fdf3e561ef', 'parameters': {'query': 'Full Stack Engineer in Cincinnati', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'FeAXFd7R3GQt8O_cAAAAAA==', 'job_title': 'Full Stack Engineer Manager', 'employer_name': 'Accenture', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIaCF1uBbefSCwwDER3mo6tU5Nu4BaVnuSPfnK&s=0', 'employer_website': 'https://www.accenture.com', 'job_publisher': 'Indeed', 'job_employment_type': 'Full-time', 'job_employment_types': ['FULLTIME'], 'job_apply_link': 'https://www.indeed.com/viewjob?jk=7c77ea7c400ed4cb', 'job_apply_is_direct': False, 'apply_options': [{'apply_link': 'https://www.indeed.com/viewjob?jk=7c77ea7c400ed4cb', 'is_direct': False, 'publisher': 'Indeed'}], 'job_description': "We Are\n\nNextira, now part of Accenture, builds cloud-based solutions and services with cutting-edge engineering skills, artificial intellige
+[2026-07-01 12:11:27]     Found 10 jobs (4 new)
+[2026-07-01 12:11:27]   Searching: 'Full Stack Developer' in ...
+[2026-07-01 12:11:41] Status Code: 200
+[2026-07-01 12:11:41] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-07-01 12:11:41] API Response Preview: {'status': 'OK', 'request_id': '8c9da675-b315-45f4-ab6b-ea93631a3830', 'parameters': {'query': 'Full Stack Developer', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'Rfp-PRq_wknv5XlWAAAAAA==', 'job_title': 'Full Stack Developer (Angular/NodeJS)', 'employer_name': 'Syms Strategic Group, LLC (SSG)', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfoSIV6vrHjyTTYG3-ZbbE19Ote-WErfMT0knc&s=0', 'employer_website': None, 'job_publisher': 'LinkedIn', 'job_employment_type': 'Full-time', 'job_employment_types': ['FULLTIME'], 'job_apply_link': 'https://www.linkedin.com/jobs/view/full-stack-developer-angular-nodejs-at-syms-strategic-group-llc-ssg-4434742887', 'job_apply_is_direct': False, 'apply_options': [{'apply_link': 'https://www.linkedin.com/jobs/view/full-stack-developer-angular-nodejs-at-syms-strategic-group-llc-ssg-4434742887', 'is_direct': False, 'publisher': 'LinkedIn'}], 'job_description': 'Syms Strategic G
+[2026-07-01 12:11:41]     Found 10 jobs (11 new)
+[2026-07-01 12:11:41]   Searching: 'Full Stack Engineer' in ...
+[2026-07-01 12:11:41] Status Code: 429
+[2026-07-01 12:11:41] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-01 12:11:41]     Found 0 jobs (11 new)
+[2026-07-01 12:11:41] 
+▶ Role: Software Engineer
+[2026-07-01 12:11:41]   Searching: 'Software Engineer' in Ohio...
+[2026-07-01 12:11:41] Status Code: 429
+[2026-07-01 12:11:41] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-01 12:11:41]     Found 0 jobs (0 new)
+[2026-07-01 12:11:41]   Searching: 'Software Developer' in Ohio...
+[2026-07-01 12:11:41] Status Code: 429
+[2026-07-01 12:11:41] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-01 12:11:41]     Found 0 jobs (0 new)
+[2026-07-01 12:11:41]   Searching: 'Software Engineer' in Cincinnati...
+[2026-07-01 12:11:41] Status Code: 429
+[2026-07-01 12:11:41] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-01 12:11:41]     Found 0 jobs (0 new)
+[2026-07-01 12:11:41]   Searching: 'Software Developer' in Cincinnati...
+[2026-07-01 12:11:41] Status Code: 429
+[2026-07-01 12:11:41] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-01 12:11:41]     Found 0 jobs (0 new)
+[2026-07-01 12:11:41]   Searching: 'Software Engineer' in ...
+[2026-07-01 12:11:41] Status Code: 429
+[2026-07-01 12:11:41] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-01 12:11:41]     Found 0 jobs (0 new)
+[2026-07-01 12:11:41]   Searching: 'Software Developer' in ...
+[2026-07-01 12:11:42] Status Code: 429
+[2026-07-01 12:11:42] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-01 12:11:42]     Found 0 jobs (0 new)
+[2026-07-01 12:11:42] 
+▶ Role: Data Engineer
+[2026-07-01 12:11:42]   Searching: 'Data Engineer' in Ohio...
+[2026-07-01 12:11:42] Status Code: 429
+[2026-07-01 12:11:42] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-01 12:11:42]     Found 0 jobs (0 new)
+[2026-07-01 12:11:42]   Searching: 'ETL Developer' in Ohio...
+[2026-07-01 12:11:42] Status Code: 429
+[2026-07-01 12:11:42] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-01 12:11:42]     Found 0 jobs (0 new)
+[2026-07-01 12:11:42]   Searching: 'Data Engineer' in Cincinnati...
+[2026-07-01 12:11:42] Status Code: 429
+[2026-07-01 12:11:42] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-01 12:11:42]     Found 0 jobs (0 new)
+[2026-07-01 12:11:42]   Searching: 'ETL Developer' in Cincinnati...
+[2026-07-01 12:11:42] Status Code: 429
+[2026-07-01 12:11:42] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-01 12:11:42]     Found 0 jobs (0 new)
+[2026-07-01 12:11:42]   Searching: 'Data Engineer' in ...
+[2026-07-01 12:11:42] Status Code: 429
+[2026-07-01 12:11:42] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-01 12:11:42]     Found 0 jobs (0 new)
+[2026-07-01 12:11:42]   Searching: 'ETL Developer' in ...
+[2026-07-01 12:11:42] Status Code: 429
+[2026-07-01 12:11:42] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-01 12:11:42]     Found 0 jobs (0 new)
+[2026-07-01 12:11:42] 
+▶ Role: Data Analyst
+[2026-07-01 12:11:42]   Searching: 'Data Analyst' in Ohio...
+[2026-07-01 12:11:42] Status Code: 429
+[2026-07-01 12:11:42] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-01 12:11:42]     Found 0 jobs (0 new)
+[2026-07-01 12:11:42]   Searching: 'Business Analyst' in Ohio...
+[2026-07-01 12:11:43] Status Code: 429
+[2026-07-01 12:11:43] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-01 12:11:43]     Found 0 jobs (0 new)
+[2026-07-01 12:11:43]   Searching: 'Data Analyst' in Cincinnati...
+[2026-07-01 12:11:43] Status Code: 429
+[2026-07-01 12:11:43] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-01 12:11:43]     Found 0 jobs (0 new)
+[2026-07-01 12:11:43]   Searching: 'Business Analyst' in Cincinnati...
+[2026-07-01 12:11:43] Status Code: 429
+[2026-07-01 12:11:43] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-01 12:11:43]     Found 0 jobs (0 new)
+[2026-07-01 12:11:43]   Searching: 'Data Analyst' in ...
+[2026-07-01 12:11:43] Status Code: 429
+[2026-07-01 12:11:43] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-01 12:11:43]     Found 0 jobs (0 new)
+[2026-07-01 12:11:43]   Searching: 'Business Analyst' in ...
+[2026-07-01 12:11:43] Status Code: 429
+[2026-07-01 12:11:43] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-01 12:11:43]     Found 0 jobs (0 new)
+[2026-07-01 12:11:43] 
+======================================================================
+[2026-07-01 12:11:43] Total API results: 40
+[2026-07-01 12:11:43] New jobs found: 11
+[2026-07-01 12:11:43] ✓ Saved 11 jobs to jobs_scheduled.csv
+[2026-07-01 12:11:43] Total jobs in database: 653
+[2026-07-01 12:11:43] ======================================================================
+[2026-07-01 12:11:43] ✓ Run Complete
+[2026-07-01 12:11:43] ======================================================================
