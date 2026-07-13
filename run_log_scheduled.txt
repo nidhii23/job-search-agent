@@ -2675,3 +2675,120 @@
 [2026-07-12 10:36:13] ======================================================================
 [2026-07-12 10:36:13] ✓ Run Complete
 [2026-07-12 10:36:13] ======================================================================
+[2026-07-13 12:08:33] ======================================================================
+[2026-07-13 12:08:33] JOB SEARCH AGENT - Starting Scrape
+[2026-07-13 12:08:33] ======================================================================
+[2026-07-13 12:08:33] Previously seen jobs: 657
+[2026-07-13 12:08:33] 
+▶ Role: Full Stack Developer
+[2026-07-13 12:08:33]   Searching: 'Full Stack Developer' in Ohio...
+[2026-07-13 12:08:34] Status Code: 429
+[2026-07-13 12:08:34] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:34]     Found 0 jobs (0 new)
+[2026-07-13 12:08:34]   Searching: 'Full Stack Engineer' in Ohio...
+[2026-07-13 12:08:34] Status Code: 429
+[2026-07-13 12:08:34] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:34]     Found 0 jobs (0 new)
+[2026-07-13 12:08:34]   Searching: 'Full Stack Developer' in Cincinnati...
+[2026-07-13 12:08:34] Status Code: 429
+[2026-07-13 12:08:34] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:34]     Found 0 jobs (0 new)
+[2026-07-13 12:08:34]   Searching: 'Full Stack Engineer' in Cincinnati...
+[2026-07-13 12:08:34] Status Code: 429
+[2026-07-13 12:08:34] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:34]     Found 0 jobs (0 new)
+[2026-07-13 12:08:34]   Searching: 'Full Stack Developer' in ...
+[2026-07-13 12:08:34] Status Code: 429
+[2026-07-13 12:08:34] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:34]     Found 0 jobs (0 new)
+[2026-07-13 12:08:34]   Searching: 'Full Stack Engineer' in ...
+[2026-07-13 12:08:34] Status Code: 429
+[2026-07-13 12:08:34] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:34]     Found 0 jobs (0 new)
+[2026-07-13 12:08:34] 
+▶ Role: Software Engineer
+[2026-07-13 12:08:34]   Searching: 'Software Engineer' in Ohio...
+[2026-07-13 12:08:34] Status Code: 429
+[2026-07-13 12:08:34] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:34]     Found 0 jobs (0 new)
+[2026-07-13 12:08:34]   Searching: 'Software Developer' in Ohio...
+[2026-07-13 12:08:34] Status Code: 429
+[2026-07-13 12:08:34] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:34]     Found 0 jobs (0 new)
+[2026-07-13 12:08:34]   Searching: 'Software Engineer' in Cincinnati...
+[2026-07-13 12:08:34] Status Code: 429
+[2026-07-13 12:08:34] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:34]     Found 0 jobs (0 new)
+[2026-07-13 12:08:34]   Searching: 'Software Developer' in Cincinnati...
+[2026-07-13 12:08:34] Status Code: 429
+[2026-07-13 12:08:34] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:34]     Found 0 jobs (0 new)
+[2026-07-13 12:08:34]   Searching: 'Software Engineer' in ...
+[2026-07-13 12:08:34] Status Code: 429
+[2026-07-13 12:08:34] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:34]     Found 0 jobs (0 new)
+[2026-07-13 12:08:34]   Searching: 'Software Developer' in ...
+[2026-07-13 12:08:34] Status Code: 429
+[2026-07-13 12:08:34] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:34]     Found 0 jobs (0 new)
+[2026-07-13 12:08:34] 
+▶ Role: Data Engineer
+[2026-07-13 12:08:34]   Searching: 'Data Engineer' in Ohio...
+[2026-07-13 12:08:34] Status Code: 429
+[2026-07-13 12:08:34] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:34]     Found 0 jobs (0 new)
+[2026-07-13 12:08:34]   Searching: 'ETL Developer' in Ohio...
+[2026-07-13 12:08:34] Status Code: 429
+[2026-07-13 12:08:34] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:34]     Found 0 jobs (0 new)
+[2026-07-13 12:08:34]   Searching: 'Data Engineer' in Cincinnati...
+[2026-07-13 12:08:34] Status Code: 429
+[2026-07-13 12:08:34] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:34]     Found 0 jobs (0 new)
+[2026-07-13 12:08:34]   Searching: 'ETL Developer' in Cincinnati...
+[2026-07-13 12:08:34] Status Code: 429
+[2026-07-13 12:08:34] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:34]     Found 0 jobs (0 new)
+[2026-07-13 12:08:34]   Searching: 'Data Engineer' in ...
+[2026-07-13 12:08:35] Status Code: 429
+[2026-07-13 12:08:35] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:35]     Found 0 jobs (0 new)
+[2026-07-13 12:08:35]   Searching: 'ETL Developer' in ...
+[2026-07-13 12:08:35] Status Code: 429
+[2026-07-13 12:08:35] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:35]     Found 0 jobs (0 new)
+[2026-07-13 12:08:35] 
+▶ Role: Data Analyst
+[2026-07-13 12:08:35]   Searching: 'Data Analyst' in Ohio...
+[2026-07-13 12:08:35] Status Code: 429
+[2026-07-13 12:08:35] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:35]     Found 0 jobs (0 new)
+[2026-07-13 12:08:35]   Searching: 'Business Analyst' in Ohio...
+[2026-07-13 12:08:35] Status Code: 429
+[2026-07-13 12:08:35] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:35]     Found 0 jobs (0 new)
+[2026-07-13 12:08:35]   Searching: 'Data Analyst' in Cincinnati...
+[2026-07-13 12:08:35] Status Code: 429
+[2026-07-13 12:08:35] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:35]     Found 0 jobs (0 new)
+[2026-07-13 12:08:35]   Searching: 'Business Analyst' in Cincinnati...
+[2026-07-13 12:08:35] Status Code: 429
+[2026-07-13 12:08:35] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:35]     Found 0 jobs (0 new)
+[2026-07-13 12:08:35]   Searching: 'Data Analyst' in ...
+[2026-07-13 12:08:35] Status Code: 429
+[2026-07-13 12:08:35] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:35]     Found 0 jobs (0 new)
+[2026-07-13 12:08:35]   Searching: 'Business Analyst' in ...
+[2026-07-13 12:08:35] Status Code: 429
+[2026-07-13 12:08:35] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-07-13 12:08:35]     Found 0 jobs (0 new)
+[2026-07-13 12:08:35] 
+======================================================================
+[2026-07-13 12:08:35] Total API results: 0
+[2026-07-13 12:08:35] New jobs found: 0
+[2026-07-13 12:08:35] No new jobs to save
+[2026-07-13 12:08:35] Total jobs in database: 657
+[2026-07-13 12:08:35] ======================================================================
+[2026-07-13 12:08:35] ✓ Run Complete
+[2026-07-13 12:08:35] ======================================================================
