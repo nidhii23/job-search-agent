@@ -11727,3 +11727,130 @@
 [2026-09-24 14:08:09] ======================================================================
 [2026-09-24 14:08:09] ✓ Run Complete
 [2026-09-24 14:08:09] ======================================================================
+[2026-09-25 14:28:26] ======================================================================
+[2026-09-25 14:28:26] JOB SEARCH AGENT - Starting Scrape
+[2026-09-25 14:28:26] ======================================================================
+[2026-09-25 14:28:26] Previously seen jobs: 1810
+[2026-09-25 14:28:26] 
+▶ Role: Full Stack Developer
+[2026-09-25 14:28:26]   Searching: 'Full Stack Developer' in Ohio...
+[2026-09-25 14:28:30] Status Code: 200
+[2026-09-25 14:28:30] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-09-25 14:28:30] API Response Preview: {'status': 'OK', 'request_id': '8a0ffe68-1ae6-4dbf-bbea-48ee7e7d06d5', 'parameters': {'query': 'Full Stack Developer in Ohio', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'NzM4OE10M3NJamlKamFhSUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTalJaYlhOV1MxOUthall4WmpoMVREZENWME41UVVGRU4xTkVhMFZSTmtkR2NWSnhibUZNVVVnMU1GSnpkbkZrVmxKc2MwMVRNVTluWW1WVVlqUnhibWQ0VUdoaWNqaGFUM3BsTlcxZlFUaGtaV3BKZGpkWlN6VmZjUzEyUkZCQ2FraG9kamRSYUc4MFQwOU1jazFtTFhOSFoyTmlkMmxFYVdKalVHczFia293UlZkR1ZYUVNGME52VnpKaGMwZEtUemhEVERZdFFWQm5jbDlYYlVFMEdpSkJSSE55T1daVVptdGFOQzFYVFV4TVVXbHNWM2hNZGxKTFNVWkZjMnhTUjNWQg', 'job_title': 'Java Full Stack Developer', 'employer_name': 'BCforward', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8T89yFeVJ2IiKg70diuzjlyT5dOGnwflXNAzD&s=0', 'employer_website': 'https://www.bcforward.com', 'job_publisher': 'LinkedIn', 'job_employment_type': 'Contractor', 'job_employment_types': ['CONTRACTOR'], 'job_apply_link': 'h
+[2026-09-25 14:28:30]     Found 10 jobs (5 new)
+[2026-09-25 14:28:30]   Searching: 'Full Stack Engineer' in Ohio...
+[2026-09-25 14:28:45] [ERROR] API failed: HTTPSConnectionPool(host='jsearch.p.rapidapi.com', port=443): Read timed out. (read timeout=15)
+[2026-09-25 14:28:45]     Found 0 jobs (5 new)
+[2026-09-25 14:28:45]   Searching: 'Full Stack Developer' in Cincinnati...
+[2026-09-25 14:28:49] Status Code: 200
+[2026-09-25 14:28:49] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-09-25 14:28:49] API Response Preview: {'status': 'OK', 'request_id': 'c848ba30-510e-4ba9-8592-25456b815d38', 'parameters': {'query': 'Full Stack Developer in Cincinnati', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'Wkpwcm9CN0hsWlJZZ0NpZUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTekZKVW5FMFZGaGlWREJFVkVzdFEwSXRjMHR3UnpFdFh6ZE9iMWxNU0ZaS2JqQXpaMHR4Y1VJM1JDMWlNRUV3V2paUmEwMVBjazlQTjFORGNERm9Ta1pvY0ZoM2REZFhUbTlHVVdSTE1ETmtWamRuWTNWNk1tWnhURnB4WTNrMU9VeE5lRnBqVEU5VVFWWXRVRm8xY2xsbFgyMXJjRGw0VHpKUVp6RjViVmxpYWtGUFIzY1NGMGh2VnpKaGRuWkNRMkoxTW1oaVNWQXljV0ZaZVVFMEdpSkJSSE55T1daVVVtdEVkVFZKUVc4eVVGOXZObVIxZGxwNlkzRkNPVXhsY1ZKbg', 'job_title': 'Full Stack Developer with Cloud-Native and Healthcare EDI', 'employer_name': 'Ideaon', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNGr1402g6MdQ7h5unviyayIqJ6QJ3DhBuT-gs&s=0', 'employer_website': 'https://ideaoninc.com', 'job_publisher': 'LinkedIn', 'job_employment_type': 'Contractor', 'job_employment_types': ['CON
+[2026-09-25 14:28:49]     Found 10 jobs (8 new)
+[2026-09-25 14:28:49]   Searching: 'Full Stack Engineer' in Cincinnati...
+[2026-09-25 14:28:52] Status Code: 200
+[2026-09-25 14:28:52] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-09-25 14:28:52] API Response Preview: {'status': 'OK', 'request_id': 'ecf5b49d-2e22-4b17-a6f2-c7b3261351a4', 'parameters': {'query': 'Full Stack Engineer in Cincinnati', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'RmVBWEZkN1IzR1F0OE9fY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM1JSVlZOa05XNXlVV0l5Y1dkRFMxOUlhMHN5WkU1V1pFbGlRbWhEWTJwTlVHdHFabEJPZVV0V2NWYzJTamR4TmxSNVFVcFBUelozU2pWS1IyVXdaVjlUY1ZwaFpGbHNjRlEyWDI1dFVqRlFPWGhCZHpGUU1UQlpWbEY1U2xoVk5rMWxjMlJKYUhNeGVtVkNhRzlRYkVKaVIwNWhUa0ZNUWxCd2FsVkZWMnBVVG5wRFdqVVNGMGxaVnpKaGRISnpTbkJsYVRWT2IxQm5TMGMwTFZFNEdpSkJSSE55T1daUmRYTnlXbVZxUzJoNk1uUXdkRk13ZUhnNVdWWkhNakJLVVhwQg', 'job_title': 'Senior Full Stack Engineer', 'employer_name': 'NaviStone', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQhftUly2LV-zDs9aT9ogehJwYVt_jQMhnKBZi&s=0', 'employer_website': 'https://www.navistone.com', 'job_publisher': 'LinkedIn', 'job_employment_type': 'Full-time', 'job_employment_types': ['FULLTIME'], 'job_apply_link':
+[2026-09-25 14:28:52]     Found 10 jobs (9 new)
+[2026-09-25 14:28:52]   Searching: 'Full Stack Developer' in ...
+[2026-09-25 14:29:01] Status Code: 200
+[2026-09-25 14:29:01] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-09-25 14:29:01] API Response Preview: {'status': 'OK', 'request_id': 'e1ef481a-8115-4081-bb1b-677ba213eb0d', 'parameters': {'query': 'Full Stack Developer', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'Wm9ySDFZeGhSeDQtLXlwNUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVFp6Vm5FMGJqWlZMVU5GU0hwVVRuQjVla1oyV0hKUE1HeFFhak5qWm5KSE1uSndWRTU2Y3paa2VrdE1Uazg1T1RKQ1VISTVhRU4wWjNkUVFuZzRVVzlJUW1Fd2JqZ3RZVlpZWnpCeVZITnBPSE40YlVwc1pISjZZVjlKYVZFeFRqZGtNVWhKU210dlVYVkJkMGt5UWxGM1dIaGtNMUl6U0d4dE4wWllNRXc1YzNGS01Hb1NGMHR2VnpKaGIxaGxRamRwWTNCMFVWQjZObGhUTUZFNEdpSkJSSE55T1daU1JIWkRXalpDVW1KcVp6QkRMVzFpVjNGMVJYQnpkMHhIYTJsbg', 'job_title': 'DSCA Full Stack Front-End Developer Mid (Software Development Analyst) - 30392', 'employer_name': 'Mission Technologies, a division of HII', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9-FtMx0nejqotUgyT-vOq33Vs6Ld5BvM0MelO&s=0', 'employer_website': None, 'job_publisher': 'LinkedIn', 'job_employment_type': 'Full-time', 'job_empl
+[2026-09-25 14:29:01]     Found 10 jobs (16 new)
+[2026-09-25 14:29:01]   Searching: 'Full Stack Engineer' in ...
+[2026-09-25 14:29:04] Status Code: 200
+[2026-09-25 14:29:04] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-09-25 14:29:04] API Response Preview: {'status': 'OK', 'request_id': 'ce6ec846-125e-4bcc-babf-41139333fa0a', 'parameters': {'query': 'Full Stack Engineer', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'c3JWYU92Y0lFMjdIT1VRbUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTMDVvYW1kTGVubFZNMDV3TlU5T1QyNTVaR3hPVTNkR2FYRmFRWFpUYjJGemNtMVNXa294TVVoRlpVbEJZVzlUY0doaFNUQjVRVEV5Ymt4TWJ6aENSVWsyVDBOd05WbDZRbEpYY0RKaWVtNWhWMWxpYjJwdU1WWk5UMEZvUm5wbWFtTndPWGxWWVVnd1JVNHhWblpLVVMxUk1XTjRZVGRZZGxoNmVWUmFTRUZSTTBadVV6Z1NGa3haVnpKaGNFUnhTM1F5TVdoaVNWQTROa1JXV1ZFYUlrRkVjM0k1WmxKSU9FdFBjRFJzUjNCR2MweFphVVZzVVhwTlJEVkljQzFEWlhj', 'job_title': 'Full Stack Engineer 4 (Bank Tech)', 'employer_name': 'Capital One', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQs10RDe3UNykrDDS1GdWOFzLadY76FR6vn0DJ&s=0', 'employer_website': 'https://www.capitalone.com', 'job_publisher': 'Capital One Careers', 'job_employment_type': 'Full-time and Part-time', 'job_employment_types': ['FULLTIME',
+[2026-09-25 14:29:04]     Found 10 jobs (17 new)
+[2026-09-25 14:29:04] 
+▶ Role: Software Engineer
+[2026-09-25 14:29:04]   Searching: 'Software Engineer' in Ohio...
+[2026-09-25 14:29:07] Status Code: 200
+[2026-09-25 14:29:07] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-09-25 14:29:07] API Response Preview: {'status': 'OK', 'request_id': 'a7f970f0-2f59-491c-b83d-0f965714ff42', 'parameters': {'query': 'Software Engineer in Ohio', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'WGtCaXg2LUtNcmp2NlV5bUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURmRPVG5sWGNpMWZhMjlEWjFaVU1tWkphamhxWkd0ZmFYTTBVVmswVlhNeVpFczJNMlJ0U1ZCeFZFWnFTMUptYjJjMVJreHhSRVZ6Y1dsRmNpMXdSMlZ3WlcwNGRHUm1SMWR0TlV4RlpsWlFVMjA1ZW1ocFVUTXlUamRyTWtOR2VYVnpOMHQ0WkVOTVlsUjFUa3c0TlZWYWNtWjNRbGxGVjJGV1dUVlRRazQ0T1dSM1NEUVNGMDFKVnpKaGRqTlZUbVF0Y1hjNFkxQjFUa2hHTkZGekdpSkJSSE55T1daVGRtbFBPREozVWsweFZuQnRVRUV3Y1dkQlZtdGpSV3hRUVV4Qg', 'job_title': 'Entry-Level Software Developer', 'employer_name': 'Epic', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgVVSk_QhTuQmEEn1ZvGqho0kUG1HUYhqIf624&s=0', 'employer_website': 'https://careers.epic.com', 'job_publisher': 'LinkedIn', 'job_employment_type': 'Full-time', 'job_employment_types': ['FULLTIME'], 'job_apply_link': 'https://
+[2026-09-25 14:29:07]     Found 10 jobs (4 new)
+[2026-09-25 14:29:07]   Searching: 'Software Developer' in Ohio...
+[2026-09-25 14:29:11] Status Code: 200
+[2026-09-25 14:29:11] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-09-25 14:29:11] API Response Preview: {'status': 'OK', 'request_id': '0dd9b04b-e17a-4669-a9d0-33aa10aeed03', 'parameters': {'query': 'Software Developer in Ohio', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'WGtCaXg2LUtNcmp2NlV5bUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVWN4Tm1OR2FHeE1UbFpvVDJkTWFsWXRjRWt5UjIweE5HWnVPRzFVTWpWM00ybEJRMDE1VVVvM1dIbE5XRzFVYVZsdVMxaHJRVWxZWjFwUVpIaHRhMlJTZUMxSFkzUllOa0l0Y0ZKVFdFcFBWRFp6TUhnM2RVSm9hWEU0YVZGRmFUbDVWR2hEVjBKSlh6Um9PV1Z0YzJWelJtVlBRVXd4TXpZNVUzVnNVbk5PWmxCc2JIRVNGMDVKVnpKaGRXMUNSRmxwVldoaVNWQTBTV1psZDBGckdpSkJSSE55T1daVFkySlFaMHBEY1djMmNqaHNNMHR4TnpCRE9FVjNhbUZ3UzBKQg', 'job_title': 'Entry-Level Software Developer', 'employer_name': 'Epic', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgVVSk_QhTuQmEEn1ZvGqho0kUG1HUYhqIf624&s=0', 'employer_website': 'https://careers.epic.com', 'job_publisher': 'LinkedIn', 'job_employment_type': 'Full-time', 'job_employment_types': ['FULLTIME'], 'job_apply_link': 'https:/
+[2026-09-25 14:29:11]     Found 10 jobs (9 new)
+[2026-09-25 14:29:11]   Searching: 'Software Engineer' in Cincinnati...
+[2026-09-25 14:29:17] Status Code: 200
+[2026-09-25 14:29:17] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-09-25 14:29:17] API Response Preview: {'status': 'OK', 'request_id': 'a62abe97-44ee-4b49-a2c0-568410775c6c', 'parameters': {'query': 'Software Engineer in Cincinnati', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'SVhCdFpZX3A5RVU4OU1PSkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVU5TVFZsVE0yUXlVVFI0TUdaMlNXMWZVa2huVFdOMWFVUnNZekZOVWxSU05XMXVlbVF3VjB4alZVc3hXbFk1TUZaNFQwbENMVUV0YVZoNE9IaG9jVXg1UXpOR2FISnJORXgyYldkV2VrNUVhRTE2ZGtKUGFXbFdWM05CY1ZWVlltUnVVRk4wU25aV05FRkVibEJwYzBwbmVUaFRObU14WVRVMFRtSnNha0p1V25CWlpVSVNGMDlKVnpKaGNVeDBRamRIYldoaVNWQjJUVTlpZDFGckdpSkJSSE55T1daVGJqYzRha1JaZUVKdFdEaFVkMXBmUTJoMllVRTVibWMwVURSbg', 'job_title': 'Entry-Level Software Developer', 'employer_name': 'Epic', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgVVSk_QhTuQmEEn1ZvGqho0kUG1HUYhqIf624&s=0', 'employer_website': 'https://careers.epic.com', 'job_publisher': 'LinkedIn', 'job_employment_type': 'Full-time', 'job_employment_types': ['FULLTIME'], 'job_apply_link': 'ht
+[2026-09-25 14:29:17]     Found 10 jobs (14 new)
+[2026-09-25 14:29:17]   Searching: 'Software Developer' in Cincinnati...
+[2026-09-25 14:29:20] Status Code: 200
+[2026-09-25 14:29:20] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-09-25 14:29:20] API Response Preview: {'status': 'OK', 'request_id': '3f550c42-0bbb-4958-89eb-45129f93b1b1', 'parameters': {'query': 'Software Developer in Cincinnati', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'SVhCdFpZX3A5RVU4OU1PSkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURk5QWkVaR01sazVZbHBhTm1oVFQzRnBXWFI0VEdwS1dIWnNMV1JXYWpoa2J6VlVTbVYwY2tkWWMwRk9Oa28wVEVsbloyRlBORkZoYTFCZmVERkZiMWRHWjNORGFFbFFRM1ptVm1kQlMyNURXVTFKZWtoNlRqY3lOMkoxZEUwNGRYQTBlSHBoUTJ4UGNVY3RRMmhHVlMxQ1RtbHVkMGhZZEdad1lscERVbUZVWmxBNFVWZ1NGMUJ2VnpKaGMwOURRV0Z1Y21oaVNWQjZjMU5PT0ZGakdpSkJSSE55T1daVFZHaGxSemswYzFjM2FESnVMV1Z4UVd0RFpVUXdXVEEzYTBWbg', 'job_title': 'Entry-Level Software Developer', 'employer_name': 'Epic', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgVVSk_QhTuQmEEn1ZvGqho0kUG1HUYhqIf624&s=0', 'employer_website': 'https://careers.epic.com', 'job_publisher': 'LinkedIn', 'job_employment_type': 'Full-time', 'job_employment_types': ['FULLTIME'], 'job_apply_link': 'h
+[2026-09-25 14:29:20]     Found 10 jobs (15 new)
+[2026-09-25 14:29:20]   Searching: 'Software Engineer' in ...
+[2026-09-25 14:29:24] Status Code: 200
+[2026-09-25 14:29:24] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-09-25 14:29:24] API Response Preview: {'status': 'OK', 'request_id': 'a416aa43-2bcf-4d52-9afe-06641b50bd47', 'parameters': {'query': 'Software Engineer', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'bEtWejNNdUoxakRmN292M0FBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBUR2c1YUdreWJHbzJUREZpWmpGVGVHNUtRVEZ4UW5kc2FsWlFTalZ5UWt0Q2RraGxWMnRuVUhkaFRWUnpiRlZOTTA5aGJFcDZkR0poYWxCNWQxWmxlSE5WWkcxc0xVaFBVVmxhWDE5cGJrVlNhM001VFVacE4xcHFSVmhvV201QmIyOVFhVWs1T0VWeVVGUjZPVlpXV1ZKNFQzVTNhbkJCTmw5c2VHZENNRjlYVDB4TE1tb1NGbEZaVnpKaGRXSTRSVmt0Tm1oaVNWQndPVjlDU1ZFYUlrRkVjM0k1WmxKTWMzWXRXWFkzTjNScGNFNVNXaTFOVFcxVVl6WmxjREF5TlVF', 'job_title': 'Software Engineer III with TS/SCI Polygraph', 'employer_name': 'Deloitte', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3uIpE_ooltKt1A5J-Cqj5IYkVZ0RQJuJJgSxt&s=0', 'employer_website': 'https://www.deloitte.com', 'job_publisher': 'LinkedIn', 'job_employment_type': 'Full-time', 'job_employment_types': ['FULLTIME'], 'job_apply_link': 'h
+[2026-09-25 14:29:24]     Found 10 jobs (23 new)
+[2026-09-25 14:29:24]   Searching: 'Software Developer' in ...
+[2026-09-25 14:29:28] Status Code: 200
+[2026-09-25 14:29:28] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-09-25 14:29:28] API Response Preview: {'status': 'OK', 'request_id': 'c9e9e938-375c-4165-8dd1-60482fa3338b', 'parameters': {'query': 'Software Developer', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'OHJRR2NQaTBNNVdUS1RTaUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM1pWV2tGVlVqRkdNVFEzUzBWNlJIZzBWMFJ2WDBWWFZVc3diVTQyYzBKRkxUVjJVV2xDYlZSVGJHeExObkZaYldWNmRWRk9iMmRYWlhoRU9IVXpaVVJWYlV0YWNYQm1iRUY1WVd3M2VWWkNhMlJtU214eGQwWlVRVUZNTVhWbVJXTkhjMjEwV25kT1ltSXhTWE5FVERoTGEwd3daRTR0Y1ZGVU5YWTRVbEZSVkhOck5uSVNGMUpKVnpKaGRtWmhTR0ppY1doaVNWQmZUR0Z2TmxFNEdpSkJSSE55T1daUk1razJjV2hVZDBOVVlqbGhPVU54V0VJdGQySlRPWFJWZUZSbg', 'job_title': 'Remote Software Developer $60 - $120/hourpay', 'employer_name': 'IT Job Board - Tech Jobs Portal in USA', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTay5kW2IgmCbpQp2PhqRbk4Q1Y_OlDvviMG8TN&s=0', 'employer_website': None, 'job_publisher': 'LinkedIn', 'job_employment_type': 'Full-time', 'job_employment_types': ['FULLTIME'], 'job_app
+[2026-09-25 14:29:28]     Found 10 jobs (31 new)
+[2026-09-25 14:29:28] 
+▶ Role: Data Engineer
+[2026-09-25 14:29:28]   Searching: 'Data Engineer' in Ohio...
+[2026-09-25 14:29:31] Status Code: 200
+[2026-09-25 14:29:31] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-09-25 14:29:31] API Response Preview: {'status': 'OK', 'request_id': 'bb77072f-776f-4d92-b4c6-66a56656a44f', 'parameters': {'query': 'Data Engineer in Ohio', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'enJvb2F1ZGU4cHNpQk5FWUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTelJCU214T1V6SjRSSGgzT0VwQlJXNU5SR2RuTUd4MVdUSjRaMk5VZG1OaVYyeFhNazlUYlZsVldGUlNWSGRHVVVWV1VrWnlhVFJTT0dSYWREaFFMV1o2WjFWVVJsODVOVGxQUlROMWVFaDJRekEzT1VGSmRFVkZVekZzWlRCRUxVY3dlbkpzVUZSbFpVRlRSV0ZQUzFSNVExWXhORmR2ZEZObVlreFBUemhRVjNGNlZVRVNGMU5KVnpKaGRtVTRTV04xYVdoaVNWQnlTa2cxTFVGSkdpSkJSSE55T1daU1RUSmFXbkJyUWtkb1QwdHVjMEpQVVRBMVNUTXRhbGxvYkRsUg', 'job_title': 'Lead Data Engineer', 'employer_name': 'JPMorganChase', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJGlBBMSH3KKcmylT5lMvWctF0mf1Ywm-2xFv5&s=0', 'employer_website': 'https://www.jpmorganchase.com', 'job_publisher': 'LinkedIn', 'job_employment_type': 'Full-time', 'job_employment_types': ['FULLTIME'], 'job_apply_link': 'https://ww
+[2026-09-25 14:29:31]     Found 10 jobs (7 new)
+[2026-09-25 14:29:31]   Searching: 'ETL Developer' in Ohio...
+[2026-09-25 14:29:38] Status Code: 200
+[2026-09-25 14:29:38] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-09-25 14:29:38] API Response Preview: {'status': 'OK', 'request_id': '2069a0ed-24d8-4814-82e4-d1c04f96e826', 'parameters': {'query': 'ETL Developer in Ohio', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'enJvb2F1ZGU4cHNpQk5FWUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVTV5YUVsU1NVaE9hRFZLVlZvMWEyaFZZMlZqT1hsUVVWQnhibEkxYlRCVlpUVndOVVZRT1ZCcVNucFNPSFE0WkRkVWJuRlpUMkpxWlVKT1FUSXdOR05VWTFKWmQwMDNhMVJJUW1oSE5rUjZka1U0Ums1T1RFTTNTbFpsYjJOdlNrNXNjRXQ0T0RkTmRtVTBNRnAzVm05M1luWlJXVTVYTVRaa1kxbFBXR1JWUXpocmFXWVNGMVEwVnpKaGRYSlFUMTkyWmpWT2IxQnVZa3RJZFVGSkdpSkJSSE55T1daVGNWaHBNakl4WW5SdVgwOVFlVEZDWlcxMGRGbGZkbE5IV2xsbg', 'job_title': 'Lead Data Engineer', 'employer_name': 'JPMorganChase', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJGlBBMSH3KKcmylT5lMvWctF0mf1Ywm-2xFv5&s=0', 'employer_website': 'https://www.jpmorganchase.com', 'job_publisher': 'LinkedIn', 'job_employment_type': 'Full-time', 'job_employment_types': ['FULLTIME'], 'job_apply_link': 'https://ww
+[2026-09-25 14:29:38]     Found 10 jobs (13 new)
+[2026-09-25 14:29:38]   Searching: 'Data Engineer' in Cincinnati...
+[2026-09-25 14:29:53] [ERROR] API failed: HTTPSConnectionPool(host='jsearch.p.rapidapi.com', port=443): Read timed out. (read timeout=15)
+[2026-09-25 14:29:53]     Found 0 jobs (13 new)
+[2026-09-25 14:29:53]   Searching: 'ETL Developer' in Cincinnati...
+[2026-09-25 14:29:57] Status Code: 200
+[2026-09-25 14:29:57] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-09-25 14:29:57] API Response Preview: {'status': 'OK', 'request_id': '447ba992-7b32-4fe5-b324-d4f095c089f7', 'parameters': {'query': 'ETL Developer in Cincinnati', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'N1FNS1VqSGZfV0NxOWZPeEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMEpTU0VwS2NuVjNkVkZIZFV0c1JqZHFXVlJvUlZkemNsSjNOa1pCUmpSMlQwOXNkbmR6YlZCQlEySmFRMHRNYmtSRU5EVkpVRVk0U0dVM1JVRmxTSE5qWVRWMWVsOWZPV0ZzVFVKaVZHVkRkV1JTVEdRME1DMDNTM041Y21JMlYwaGpkemh3VURKVFZWSmhZa1V4V1RscldtMVJXVVpaU2xKUk1EaG9XbWxOV1hWell6Y1NGMWx2VnpKaGNGOWpSV1JEUjNkaWExQjVURVJPTWxGbkdpSkJSSE55T1daVVduRXlVamhsTWw5TldURlNkek5HVWpWRFFXazRSM05HUXpWMw', 'job_title': 'ETL Data Analyst', 'employer_name': 'Navtech, Inc.', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ9sBNIKEnXF_Jbh6zOBAG3Gj67XB-5LT-UK9R&s=0', 'employer_website': 'https://www.navtechusa.com', 'job_publisher': 'ZipRecruiter', 'job_employment_type': 'Contractor', 'job_employment_types': ['CONTRACTOR'], 'job_apply_link': 'ht
+[2026-09-25 14:29:57]     Found 10 jobs (15 new)
+[2026-09-25 14:29:57]   Searching: 'Data Engineer' in ...
+[2026-09-25 14:30:12] [ERROR] API failed: HTTPSConnectionPool(host='jsearch.p.rapidapi.com', port=443): Read timed out. (read timeout=15)
+[2026-09-25 14:30:12]     Found 0 jobs (15 new)
+[2026-09-25 14:30:12]   Searching: 'ETL Developer' in ...
+[2026-09-25 14:30:28] [ERROR] API failed: HTTPSConnectionPool(host='jsearch.p.rapidapi.com', port=443): Read timed out. (read timeout=15)
+[2026-09-25 14:30:28]     Found 0 jobs (15 new)
+[2026-09-25 14:30:28] 
+▶ Role: Data Analyst
+[2026-09-25 14:30:28]   Searching: 'Data Analyst' in Ohio...
+[2026-09-25 14:30:30] Status Code: 200
+[2026-09-25 14:30:30] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-09-25 14:30:30] API Response Preview: {'status': 'OK', 'request_id': '4038b600-c2bb-4eed-93db-05dccd16e5ce', 'parameters': {'query': 'Data Analyst in Ohio', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'THlBanN4LXVnOTNIRG1UUEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTelJCUlZaUk4wZDRTMkZOTFdNM2MzaEJjMXBHVkRObmJHaGZUVWt4Y2pkQlpsaEhYMDFvVFY5VGRUVkdkR05GVkhWbGRHUjVhM0YzZEVSTWNITmlXRXRtUm5OcVYwVlVOa3RrZFdaWGEwWnBVa3BCUzNSaVFqVmlNa2hNT0VseVVFeHRlSHA0U1ZvMFJuTm1hVVZqYUVJMmJIaFpWVlJOWTBabGNUbEVibDl0VVUwNFVHUVNGMmhKVnpKaGIyWnpSMk5tUVd0UVNWQXRjRVF5YVZGTkdpSkJSSE55T1daU1JGbE1SME0zY1hKV2FWcGtXVVV3ZFZCVGRuVjBRbFJTU0ZKQg', 'job_title': 'Senior Data Analyst - Remote', 'employer_name': 'UnitedHealth Group', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReAmo2PNFBUDbat4gFh3FqgMJg2MGvTkpis_wp&s=0', 'employer_website': 'https://www.unitedhealthgroup.com', 'job_publisher': 'UnitedHealth Group', 'job_employment_type': 'Full-time', 'job_employment_types': ['FULLTIME'], '
+[2026-09-25 14:30:30]     Found 10 jobs (5 new)
+[2026-09-25 14:30:30]   Searching: 'Business Analyst' in Ohio...
+[2026-09-25 14:30:34] Status Code: 200
+[2026-09-25 14:30:34] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-09-25 14:30:34] API Response Preview: {'status': 'OK', 'request_id': '784771fe-658e-4ce2-b06a-88e64a4a3d62', 'parameters': {'query': 'Business Analyst in Ohio', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'NTg3RUx6MHVXYTFING1aMUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVzVZZEhCRGFVTk5jREJzZVMxT1dYaFpkbmhrVjFkUFpXRmFabnA2Y21FeVJXNXRVWGR6YTFoZlVqQTVhWEpKVVZOR2NVcFROM0IwVlVwc2JXdFZhMFJpUkVsc1VqVjZNMWw0U0ZKYVNYQnRZazVuZVdwS1RXcFRjalZNVmtkU05HRjNWMDl0TW05R1kzSmxORFZQT0hFelduWkJNekJrYVcxWWEwOVdXbVpJV0RCTFlsSVNGMmcwVnpKaGNWQjNSa3hFZW1rdFoxQm5jRGM0ZFVGdkdpSkJSSE55T1daVGMxOWZWRFl4T0U5Rk9FNTRTMEpwYkhseE56QjVOVk5HV25aMw', 'job_title': 'Business Analyst', 'employer_name': 'Insight Global', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBPzw3Gq3-WcpHbf4ppnClXNZqpn1m9sX5nKtL&s=0', 'employer_website': 'https://insightglobal.com', 'job_publisher': 'LinkedIn', 'job_employment_type': 'Contractor', 'job_employment_types': ['CONTRACTOR'], 'job_apply_link': 'https://w
+[2026-09-25 14:30:34]     Found 10 jobs (11 new)
+[2026-09-25 14:30:34]   Searching: 'Data Analyst' in Cincinnati...
+[2026-09-25 14:30:49] [ERROR] API failed: HTTPSConnectionPool(host='jsearch.p.rapidapi.com', port=443): Read timed out. (read timeout=15)
+[2026-09-25 14:30:49]     Found 0 jobs (11 new)
+[2026-09-25 14:30:49]   Searching: 'Business Analyst' in Cincinnati...
+[2026-09-25 14:30:53] Status Code: 200
+[2026-09-25 14:30:53] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-09-25 14:30:53] API Response Preview: {'status': 'OK', 'request_id': '2313a3cc-667a-4a5d-86b0-8ccff488cd7e', 'parameters': {'query': 'Business Analyst in Cincinnati', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'Q284NzlzNFY1TkZxWDdHV0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMDk2Y0ZGT1Z6WkhhQzFCWkhwSFlrVktkVll6V1ZOUWJVUXpUSFZCYm1adVEyeFhSMGhPTUVoVldXWkhXbXA2U0ZCVlJuWnRZekJwTlhNMlgxSlNaWFpXZGxSa2RIRTRWVjlGYlVkcmNrOXhNV016YmtWd2IwRldjVEZJTVZKWk5HMTRUMVpNWDIxc05WZzVOMk5zZGtSM1NGQlRXalJ2UldrMldUWlhiRmcwVDNCZk1rRVNGMjF2VnpKaGRHMUhRazlRVDJ0UVNWQjFjMVJETmtGdkdpSkJSSE55T1daU1ZpMVBRM05pYm0xT1lYcEViR1F6YUdKelFtSmtOR2hIYkhabg', 'job_title': 'Business Data Analyst I - Predictive Modeling, Statistics, Finance & Strategic Planning', 'employer_name': 'Global Payments Inc.', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWctHn0veTsuSD_4nZzDX8-F0IY_PBVi0OCBsc&s=0', 'employer_website': 'https://www.globalpayments.com', 'job_publisher': 'LinkedIn', 'job_employment_t
+[2026-09-25 14:30:53]     Found 10 jobs (13 new)
+[2026-09-25 14:30:53]   Searching: 'Data Analyst' in ...
+[2026-09-25 14:31:08] [ERROR] API failed: HTTPSConnectionPool(host='jsearch.p.rapidapi.com', port=443): Read timed out. (read timeout=15)
+[2026-09-25 14:31:08]     Found 0 jobs (13 new)
+[2026-09-25 14:31:08]   Searching: 'Business Analyst' in ...
+[2026-09-25 14:31:23] [ERROR] API failed: HTTPSConnectionPool(host='jsearch.p.rapidapi.com', port=443): Read timed out. (read timeout=15)
+[2026-09-25 14:31:23]     Found 0 jobs (13 new)
+[2026-09-25 14:31:23] 
+======================================================================
+[2026-09-25 14:31:23] Total API results: 170
+[2026-09-25 14:31:23] New jobs found: 76
+[2026-09-25 14:31:23] ✓ Saved 76 jobs to jobs_scheduled.csv
+[2026-09-25 14:31:23] Total jobs in database: 1886
+[2026-09-25 14:31:23] ======================================================================
+[2026-09-25 14:31:23] ✓ Run Complete
+[2026-09-25 14:31:23] ======================================================================
