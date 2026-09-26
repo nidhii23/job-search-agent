@@ -7543,6 +7543,458 @@
     "cdfee57c084b6fcc38160429b4aa54fc": {
       "title": "Business Analyst V",
       "company": "confidential"
+    },
+    "06a31b3446ec05d715388ea211fd6f50": {
+      "title": "Senior Principal Engineer - Full-Stack Ground Software Developer",
+      "company": "BAE Systems"
+    },
+    "49e6971160de95f5d7996c9ac5e969d3": {
+      "title": "Specialist, Software Engineer (Full Stack, AWS)",
+      "company": "Nationwide"
+    },
+    "54c4cdc7219df49f0e592f80be3bda28": {
+      "title": "Software Engineer  - Full-stack application developement",
+      "company": "Northrop Grumman"
+    },
+    "aeae0f19e3c937106aede1654dbddedc": {
+      "title": "Senior .NET Full Stack Developer",
+      "company": "Haystack"
+    },
+    "747d004458393779d5881a3ce8f737ed": {
+      "title": "Senior .NET Full Stack Developer - Remote / Telecommute",
+      "company": "Cynet Systems"
+    },
+    "00a95856faff2695c0b9577ec18346a8": {
+      "title": "Senior Full Stack Web Developer",
+      "company": "Kinetic Vision, Inc"
+    },
+    "e5e5577088bdce9d3433cf42ab13e678": {
+      "title": "Software Engineer II - Full-stack Developer with Anthropic Experience",
+      "company": "Deloitte"
+    },
+    "340cbd3ec6d94e3ea44b0a26ded716be": {
+      "title": "Full Stack Software Developer, Manufacturing",
+      "company": "Applied Optoelectronics Inc"
+    },
+    "63954f6db34ff649f5fff9ae2c84b856": {
+      "title": "Senior Full-Stack Engineer (Java/Angular) \u2014 Global Impact",
+      "company": "Global Payments Inc."
+    },
+    "fa3924d734e74a635e5a2e3661afe78c": {
+      "title": "Full-Stack Developer | Contingent | Washington, DC",
+      "company": "Ares Enterprise"
+    },
+    "4698c750be7307e51f1e6fc49f9e2d00": {
+      "title": "Senior Full Stack Engineer - AWS Cloud",
+      "company": "Maximus"
+    },
+    "48dc15af1e5af120b6867a467519ff28": {
+      "title": "Full Stack Developer",
+      "company": "Software Guidance & Assistance"
+    },
+    "971d26656b37d2e717925ecd91def996": {
+      "title": "Full Stack Developer Mid",
+      "company": "E-Infosol LLC"
+    },
+    "59f7322a6b7f0ae6be9d1d96ee5673d8": {
+      "title": "Full-stack Engineer 5 (Java, Python, AWS)",
+      "company": "Capital One"
+    },
+    "ea139f2432a6c1d87fc1f7635eb58c98": {
+      "title": "Full-Stack Engineer 4 (Python, Java, AWS, CI/CD, GenAI) (Enterprise Platforms Technology)",
+      "company": "Capital One"
+    },
+    "443905454938ba650e8ce4075cca5bd0": {
+      "title": "Staff Full-stack Engineer",
+      "company": "Capital One"
+    },
+    "3cfd706a5d945c841fcaabe7706b7c18": {
+      "title": "Full - Stack Engineer 5 (Remote - Eligible)",
+      "company": "Capital One"
+    },
+    "ce696e0b81dff760d8f1f39834f8740d": {
+      "title": "Senior Full Stack Engineer - AWS Cloud",
+      "company": "Maximus"
+    },
+    "238849266062c91391a9612f82841ae4": {
+      "title": "Full-stack Engineer 4 (Go, AWS)",
+      "company": "Capital One"
+    },
+    "e82fb2407fb58f83d5f9187516a59d58": {
+      "title": "Sr. Full Stack Developer I (6800)",
+      "company": "MetroStar"
+    },
+    "e3c4cb8a9773c8533ea7b4fb70a4a216": {
+      "title": "Full Stack Developer, Mid",
+      "company": "Technica Corporation"
+    },
+    "684f243a033ed1bc54d124e1f1da8e27": {
+      "title": "Full-Stack Engineer 4 (Python, Java, AWS)",
+      "company": "Capital One"
+    },
+    "46922fa45617c42182ee9023c01a4b49": {
+      "title": "Full Stack Developer - Software Engineer III - Top Secret clearance",
+      "company": "Deloitte"
+    },
+    "002796a4df81384418563fa22baec706": {
+      "title": "Sr. Java Software Engineer - GCP Cloud (W2/ Contract/Onsite/Columbus, OH)",
+      "company": "TRIMAH TECHNOLOGIES LLC"
+    },
+    "124c735b8be354fba8a25b3dada5aaa7": {
+      "title": "Senior Software Engineer",
+      "company": "The SeventhHire LLC"
+    },
+    "2ae9f57c9a3e55b00e98e145187ca534": {
+      "title": "Software Engineer, Associate (NJUS)",
+      "company": "NetJets"
+    },
+    "47fe444c5d14a136c12f38042a29c324": {
+      "title": "Entry-Level Software Developer",
+      "company": "Epic"
+    },
+    "c15b41b58a3f409e38282905eb6d126f": {
+      "title": "Software Engineer",
+      "company": "KBR"
+    },
+    "b088dc5459dcacf1b41baeaa097164e5": {
+      "title": "Manager Software Engineering 1",
+      "company": "Northrop Grumman"
+    },
+    "a908f2f9705933ee9e62336cc0c881cd": {
+      "title": "Modeling Software Engineer",
+      "company": "KBR"
+    },
+    "e742e14325c15d4b02a6831eb11ac74d": {
+      "title": "Junior Software Engineer Jobs",
+      "company": "Radiance Technologies"
+    },
+    "9f1d85f0763acfa56fb658c2c1e22be2": {
+      "title": "Cyber Software Engineer",
+      "company": "Northrop Grumman"
+    },
+    "d992c5a0b78af88d991a6bbb862a86e4": {
+      "title": "Lead Software Engineer - Hybrid",
+      "company": "Genesis10"
+    },
+    "e2fa45781950ccf30b57d9baf1aa337b": {
+      "title": "Java Software Developer (Software Development Specialist 3)",
+      "company": "State of Ohio"
+    },
+    "7a129a4f4f85c07923800ecaaa5018ab": {
+      "title": "Java Software Developer (Software Development Specialist 3)",
+      "company": "Ohio Department of Job and Family Services"
+    },
+    "72e1340f920577acdfe380f6f121ad03": {
+      "title": "Remote Software Developer $60 - $120/hourpay",
+      "company": "micro1"
+    },
+    "334e5fac7acf634f852b16ce50ceec65": {
+      "title": "Azure Java Integration Developer",
+      "company": "Reveille Technologies,Inc"
+    },
+    "eed248235e3206c2f5a3b80ed86b6205": {
+      "title": "Senior Software Engineer - IOS Developer",
+      "company": "Fifth Third Bank"
+    },
+    "fb516d28fbdbd10956b6fbcb3c64cccf": {
+      "title": "Senior Software Engineer, Flight + Plan",
+      "company": "EngRadar"
+    },
+    "164fb32c23fca236db62137313572cd9": {
+      "title": "Software Engineer III with TS/SCI Polygraph",
+      "company": "Deloitte"
+    },
+    "6a9aad8c096cb47d03a3c3c54955c22f": {
+      "title": "Software Engineer- AI Engineering Track",
+      "company": "SkillStorm"
+    },
+    "6171134117a999738b9c8a4128bcbc53": {
+      "title": "Senior Software Engineer (AI Infrastructure)",
+      "company": "Cornerstone Research"
+    },
+    "605a4774f594424d0c38d6ac4b6c9687": {
+      "title": "Software Engineer Jobs",
+      "company": "Intrepid Solutions"
+    },
+    "c183fdcfca5d72e1acf87201abbbcded": {
+      "title": "Software Engineer II - Blockchain",
+      "company": "Mastercard"
+    },
+    "ed5454e190e565eefad5b9069f3dabcd": {
+      "title": "Staff Full-Stack Software Engineer - NOS",
+      "company": "The Nuclear Company"
+    },
+    "99da83e148405ddd0c10b72e8753c63f": {
+      "title": "Software Engineer, Strategic Defense",
+      "company": "Anduril Industries"
+    },
+    "f0a179b1e248d7eb475b4fdf11501f79": {
+      "title": "Software Engineer (Back End and Cloud) Role",
+      "company": "OpenDataJobs"
+    },
+    "be1f458f4a603811cffd5f1cdff2c575": {
+      "title": "Principal Engineer - Software Development",
+      "company": "Verizon"
+    },
+    "6ef0196b7ed9ca49e9bcd20104353307": {
+      "title": "Associate Software Developer",
+      "company": "Steampunk, Inc."
+    },
+    "1a4a5c014d70f75fc8b64b3e91ebab12": {
+      "title": "Data Engineering Software Developer",
+      "company": "Leidos"
+    },
+    "aa5bbc0e788c3400265eba21db975a6c": {
+      "title": "Software Engineer with Clearance (TS, TS/CSI)",
+      "company": "Gallatin AI, Inc."
+    },
+    "930ff3f3da3bd42640068f0b0b1b4f8a": {
+      "title": "Software Developer, Intermediate",
+      "company": "Aveshka Inc"
+    },
+    "079038f7e904a5eb9e4bd1ff72ee5449": {
+      "title": "Software Engineer 2",
+      "company": "Reflexive Concepts"
+    },
+    "efeb8e5ce493874c7c401438532055fe": {
+      "title": "Senior Software Engineer - Blockchain",
+      "company": "Mastercard"
+    },
+    "44e77322613c85d48878d5f2cfe1cf0c": {
+      "title": "Lead Software Engineer, Full Stack (Golang, Python, Java, AWS)",
+      "company": "Capital One"
+    },
+    "e0e215d25d684164586d8cb42ba2e520": {
+      "title": "Data Engineering Tech Lead",
+      "company": "OhioHealth"
+    },
+    "1dfd15948e51c1f38b217b91e233d5bf": {
+      "title": "Data Engineer",
+      "company": "General Dynamics Information Technology"
+    },
+    "f64f315c9fd6d1fe0cbb1674c8c2badb": {
+      "title": "Data Engineer(onsite, only W2)",
+      "company": "CBTS"
+    },
+    "8034f54eb50db01bdfb42149aadf0eb5": {
+      "title": "Data Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY"
+    },
+    "cc6b6d8a4c9b398165c28b22a6a00b02": {
+      "title": "Sr. Data Engineer",
+      "company": "Dexian"
+    },
+    "4028039adf9e88771e65ac01fadb547e": {
+      "title": "ETL Test Engineer with Informatica",
+      "company": "Cognizant"
+    },
+    "2b00408d41196eefe720023c8ed61389": {
+      "title": "Senior ETL",
+      "company": "PNC"
+    },
+    "2274752a5e429ad4d32851eddcbe482a": {
+      "title": "Senior Data Engineer: Build Scalable Data Platforms",
+      "company": "Apex Systems, LLC"
+    },
+    "1dad34869894abd83481b23086e95b95": {
+      "title": "Senior Data Integration Engineer with NIEM (Ref: 5851)",
+      "company": "Estrada Consulting, Inc"
+    },
+    "043b9929a742d8b4a99652b9e6f58563": {
+      "title": "AI Software/ Data Engineer",
+      "company": "Vurvey Labs, Inc."
+    },
+    "0f8fc42404368f5c1bbc1f550a2d90ec": {
+      "title": "Tech Lead \u2013 Data Engineer (Databricks)",
+      "company": "Staffworxs"
+    },
+    "af23d951be3288b0aeb87238ba9edf9a": {
+      "title": "ETL Test Engineer with Informatica",
+      "company": "Cognizant"
+    },
+    "1cc452a6f6d288875022476b4bb6cc47": {
+      "title": "ETL Architect",
+      "company": "Scadea Solutions Inc"
+    },
+    "62a6bb3f3fe99845333084beaac14195": {
+      "title": "IDMC Developer",
+      "company": "Smart IT Frame LLC"
+    },
+    "b43bfc31945b21157602032aaadcaa59": {
+      "title": "Staff Engineer, Data (Remote, US)",
+      "company": "Renew Home"
+    },
+    "6b17b3527298b49905fb8ed404270fec": {
+      "title": "Junior Data Engineer",
+      "company": "The Brite Group"
+    },
+    "c4d4f8a43b80ce581f857f748e0f39d2": {
+      "title": "Data Engineer, Senior",
+      "company": "Booz Allen Hamilton"
+    },
+    "1a4839272e4d9acc8ac0a56b06564aa7": {
+      "title": "Senior Data Engineer, Observability Platform",
+      "company": "CVS Health Corporation"
+    },
+    "2ec2e0a115e2f219c36e29473dc05ed1": {
+      "title": "TTG-359 - Spark Data Engineer - $331,850 Total Compensation Jobs",
+      "company": "TTG Solutions Inc."
+    },
+    "7a0eea74728c4922d7bbc81657fd7e8f": {
+      "title": "Data Engineer Role",
+      "company": "OpenDataJobs"
+    },
+    "0ea1e5c32607d79794cbcfe4e967a9f2": {
+      "title": "Lead ETL Developer",
+      "company": "Lateral Insights LLC"
+    },
+    "e33827011efcb1a44bea7616d2ff9c60": {
+      "title": "Data Engineer (Secret Clearance)",
+      "company": "Data Surge"
+    },
+    "d85be8b3feb1efe282f0d6db077d94f4": {
+      "title": "Senior Backend Developer, Palantir",
+      "company": "Deloitte"
+    },
+    "7cf2e2eb2101ad4fadbb603441540add": {
+      "title": "Senior Data Analyst - Remote",
+      "company": "Optum"
+    },
+    "01c75eb1e1ae3eb037e5e012b79ffbd5": {
+      "title": "HR Data Analyst",
+      "company": "Ohio Machinery Co."
+    },
+    "896867f6a9e6cd1c1cb50cefac4e2e57": {
+      "title": "Digital Product Analyst",
+      "company": "PrideNow"
+    },
+    "7ac23ac2c3643f6a9e7090bee744456d": {
+      "title": "Manufacturing Data Analyst",
+      "company": "BWXT"
+    },
+    "51baae5d4b3e3f38746c3a0adb2a9b2d": {
+      "title": "Data Analyst, Revenue Cycle",
+      "company": "Orthopedic ONE"
+    },
+    "bcf6b88baf45fbb6e5b94b3a4f2055f4": {
+      "title": "IT Business/Technology Analyst in Columbus , Ohio -  Onsite Position (In-Person Interview)",
+      "company": "Edi Matrix LLC"
+    },
+    "15de33bd41ea49084343249df4e567eb": {
+      "title": "IT Business Systems Analyst",
+      "company": "LeafHome"
+    },
+    "c8c369bd820da5f9b8b40baef87bedf5": {
+      "title": "Business Analyst, hybrid | 1064378",
+      "company": "Revel IT"
+    },
+    "92007f2c24b826e00c7a50cf3bd2e24b": {
+      "title": "Business Analyst, hybrid | 1064377",
+      "company": "Revel IT"
+    },
+    "9d8694617f170f0530499dd37b8a2dec": {
+      "title": "Business Analyst - OEMS",
+      "company": "Clearwater Analytics, LLC"
+    },
+    "29de61d7635ccdf267430a887f8f30f8": {
+      "title": "Business Analysts",
+      "company": "InterSec"
+    },
+    "16c62e2e921b9328d9b3735e231f0170": {
+      "title": "Data Governance Analyst",
+      "company": "Cincinnati State Technical & Community College"
+    },
+    "913027082fb4c380733bf7d04acc953f": {
+      "title": "Data Analyst I: Predictive Modeling & Strategic Finance",
+      "company": "worldpay"
+    },
+    "8852beb1ce395b04c601744b8ca7c35d": {
+      "title": "Data Quality Analyst",
+      "company": "MarketVision Research"
+    },
+    "f4c85e37e945a96fcff7e04fa941b8e8": {
+      "title": "Data Analytics Co-op: Quality and Manufacturing Insights",
+      "company": "Boston Beer Corporation"
+    },
+    "879f9dd2e16f3fd32d3f41c33a675215": {
+      "title": "AI & Business Transformation Analyst",
+      "company": "Rainmaker Resources, LLC"
+    },
+    "ef862adb37d6582400422a9b6a93b1e6": {
+      "title": "Data Analyst / Visualization Specialist",
+      "company": "E-Logic, Inc."
+    },
+    "22b8e691a683f56358651e3a17c7d50b": {
+      "title": "Data Analyst- Freelance URGENT HIRING ONSITE SILVER SPRING,MD",
+      "company": "ITThink DC"
+    },
+    "15c795b923d0a7527c66713a1e83178c": {
+      "title": "SAS Data Analyst I or II \u2013 Health Data Research - DC",
+      "company": "NORC at the University of Chicago"
+    },
+    "8318406e9ea0df43860cefdf7f5bf6b5": {
+      "title": "Senior Healthcare Data Analyst, Analytics Hub",
+      "company": "ECG Management Consultants"
+    },
+    "17ef5137fe33a901b9566130f2dda0cd": {
+      "title": "Data Analyst I",
+      "company": "2ndWave LLC"
+    },
+    "4bd2702222bfa1ec67e63cc36ed93b02": {
+      "title": "Program & Data Analyst - Navy Yard, Washington, D.C.",
+      "company": "Serco USA"
+    },
+    "6b0c3403d37ec710fc3798c78f4e6dd5": {
+      "title": "Human Resources Data Analyst",
+      "company": "Arnold & Porter"
+    },
+    "be8077aee17aa1e3420b750b4e2952b7": {
+      "title": "Entry-Level Occupational Safety and Health Data Analyst",
+      "company": "ERG"
+    },
+    "51eaa2216a6e9b931e7f93c9bfab1c27": {
+      "title": "Data Analytics Analyst (5615)",
+      "company": "SMX"
+    },
+    "59b09a9361fc2ed0b83523c1d78bca60": {
+      "title": "Federal Senior Business Analyst",
+      "company": "Chevo"
+    },
+    "6eee944ff23c2a5bf201ab4592ef813e": {
+      "title": "Business Analyst",
+      "company": "Accenture Federal Services"
+    },
+    "c86c0ef97b804b3dc23306e75d98510b": {
+      "title": "Program Manager / Business Analyst | Contingent | Washington, DC",
+      "company": "Ares Enterprise"
+    },
+    "77c9a97c0848c58747ec42fc6b32bbb2": {
+      "title": "Business Analyst",
+      "company": "Leidos"
+    },
+    "270f35d82483f86a31179812764a608f": {
+      "title": "Senior Business Analyst - Cyber Human Factors & Behavior",
+      "company": "Randstad USA"
+    },
+    "2ef393dbe6a7aa20fc6c46056d1e317e": {
+      "title": "Technical Business Analyst - Senior",
+      "company": "Guidehouse"
+    },
+    "dd6c285bb23d8c3b1deadbfad424638e": {
+      "title": "Business Analyst/Quality Assurance",
+      "company": "Inadev"
+    },
+    "996da4d528ff47e2aea52a28229fde7f": {
+      "title": "Lead Business Analyst - Facility & Space Management",
+      "company": "NetVision Resources, Inc"
+    },
+    "c96a7b781918940feeafeab19e77713f": {
+      "title": "Sr. Salesforce Marketing Cloud Technical Business Analyst - 100% Remote",
+      "company": "Caliber Smart"
+    },
+    "042ca776cc15e65178349e4a1bba9374": {
+      "title": "Business Analyst - Software Development",
+      "company": "Leidos"
     }
   }
 }
