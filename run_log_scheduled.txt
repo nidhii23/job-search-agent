@@ -12678,3 +12678,129 @@
 [2026-10-01 16:08:42] ======================================================================
 [2026-10-01 16:08:42] ✓ Run Complete
 [2026-10-01 16:08:42] ======================================================================
+[2026-10-02 15:30:16] ======================================================================
+[2026-10-02 15:30:16] JOB SEARCH AGENT - Starting Scrape
+[2026-10-02 15:30:16] ======================================================================
+[2026-10-02 15:30:16] Previously seen jobs: 2319
+[2026-10-02 15:30:16] 
+▶ Role: Full Stack Developer
+[2026-10-02 15:30:16]   Searching: 'Full Stack Developer' in Ohio...
+[2026-10-02 15:30:24] Status Code: 200
+[2026-10-02 15:30:24] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-10-02 15:30:24] API Response Preview: {'status': 'OK', 'request_id': 'c3eea317-059b-4339-a2b4-e600c09c5a3b', 'parameters': {'query': 'Full Stack Developer in Ohio', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'Z1lXVVc1U2ctY0Mwb2xDZEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV1poTURZeGQySnBZMDkxYTBSaFJsb3diSEJWVlU0MGFEbDVka3B2Ykd3M1NYWm9MVWhCZURaMWEwOU5ZbmRvTUd4b2FucHdSWGhsYjNaamNGVm1VVGR4TWxCV1ZYbFVaWEpUYzFKaE1GbEZYM0ZaUmtWalptUlpiVWhITmpSS1oyUmpVblJ4ZFVKVmRXaDNWVkZzWm1WV1VYQjNPSEJPZVVjeVQzbFJWRGxuVjA1clIxa1NGMFJOTmw5aGRYVXhUVTR0TFdwMVRWQjRPSGxSYjFFMEdpSkJSSE55T1daVE0yTjJXV3N3YmxwNVZqRlJTRUZpTlhkVGVWUktaVU5MT0RGUg', 'job_title': 'Mid – Full Stack Developer', 'employer_name': 'The Planet Group', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZvIWq_wCemxt31vZSBmxTRgHkBEpai_Htvt2s&s=0', 'employer_website': 'https://www.theplanetgroup.com', 'job_publisher': 'The Planet Group', 'job_employment_type': 'Contractor', 'job_employment_types': ['CONTRACTOR'],
+[2026-10-02 15:30:24]     Found 10 jobs (1 new)
+[2026-10-02 15:30:24]   Searching: 'Full Stack Engineer' in Ohio...
+[2026-10-02 15:30:26] Status Code: 200
+[2026-10-02 15:30:26] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-10-02 15:30:26] API Response Preview: {'status': 'OK', 'request_id': '687f2382-22f7-4eba-9637-e8f95e9c5902', 'parameters': {'query': 'Full Stack Engineer in Ohio', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'Ukhldm92OGNFSWNYUHlMa0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbVJ2Y0hOSVIwWlFVMnBTVWtGQ1ZrUnVXVkZSVUdoVE5EUmlTRU40Vm5aUmRrbFZlbTR0Y1dSUlNVRmZWRXhLYkU4MlkzTkJOalExUTNaaE0zVkdjbGh2VFVRNWJtOTZTMU5QWW1NM1JVUkRTREJEYlhoTU9IaGxXbk5PTWxsVFNtWnVOR2xuVDNwNFZFWXlaRVYxYVdWWlFsVmxTVFZqVWtwVlRWbFhPVGQ0Vms1bWVUZ1NGMFZOTmw5aGRtVnJTVXR5VEhaTlkxQnpXbTVCY1VGTkdpSkJSSE55T1daUmIwTkhRMmMxTlhOR2JqWjRVamRrWm14SExWUmxkbUV4WTBaQg', 'job_title': 'Senior .NET Full Stack Engineer', 'employer_name': 'TEKsystems', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXsEN7UUtvSpIi0itdBndnljUWnfdCSoQtMsq&s=0', 'employer_website': 'https://www.teksystems.com', 'job_publisher': 'TEKsystems Careers', 'job_employment_type': 'Contractor', 'job_employment_types': ['CONTRACTOR'], 'jo
+[2026-10-02 15:30:26]     Found 10 jobs (2 new)
+[2026-10-02 15:30:26]   Searching: 'Full Stack Developer' in Cincinnati...
+[2026-10-02 15:30:38] Status Code: 200
+[2026-10-02 15:30:38] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-10-02 15:30:38] API Response Preview: {'status': 'OK', 'request_id': '91749d16-b6d2-491d-89ca-69f563af6577', 'parameters': {'query': 'Full Stack Developer in Cincinnati', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'SEVuNThLUlp6RTJuYzFFTEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM2xrUkVSVlNVTkJOamhuWjFBNFJXaG9RV3BPWTBKbFNqbG1ZWFZaVURoQmFVSndSV0ZtY1RoSmJGUmpTMHAxY2pJdE16aENUVFI0TXpoSU1WQlhhakZEYkhJNWQwMXhWazFMTVVSc09FTnBjR1ZYU2pCYWRsTlhUVlo2UzNKemNXbEhkM1ZsWjNWTE0xVmFSMkp5WmpCSk9IUnljaTFmUWpBNVVVSjJkMjR0UTFjMlVXSVNGMGM0Tmw5aGNUSlNSRjk2VjNKMVJWQnNUWFpoYjBGekdpSkJSSE55T1daVVNsODRPRzExZVdveFgwSmhUamh2U1hwc1VrVmxkRTlUVHpKUg', 'job_title': 'Software Engineer III - Full-stack Developer with Anthropic Experience', 'employer_name': 'Deloitte', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB3GGLOpgGa4uLtU8RE297F-5aeB4kXD3T3Tj4&s=0', 'employer_website': 'https://www.deloitte.com', 'job_publisher': 'Indeed', 'job_employment_type': 'Full-time', 'job_employmen
+[2026-10-02 15:30:38]     Found 10 jobs (3 new)
+[2026-10-02 15:30:38]   Searching: 'Full Stack Engineer' in Cincinnati...
+[2026-10-02 15:30:50] Status Code: 200
+[2026-10-02 15:30:50] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-10-02 15:30:50] API Response Preview: {'status': 'OK', 'request_id': 'c23d595d-d997-4b69-9aaa-c353f307bdd5', 'parameters': {'query': 'Full Stack Engineer in Cincinnati', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'dGNUVDJLVTRMRFkwSl9yWUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMXA0ZG5aSk4zUlZhR3RyZEZjMll6UlZhMUkxWW1WU01IZFJjRFE0UkVwUVFqZzJORFprU1hjemRrNXZaSFZxYTJneGJFcHFWR0ZQYzNVdE1YcExaRWh0TTFCNWRuSTFUWFY0YlVsTWFWTldMWFZJU0V4Sk1ERllUbmRNU0doT1IxOXFlbGN5ZVV0dlFXbzNWRU52WTNWaVFXZHZhemR3WVRWVlNEWnFRM2wwYjJNeU56RVNGMHB6Tmw5aGNFOTFTR0oxVlhKMVJWQnVjbkprYzBGekdpSkJSSE55T1daUlozTmZURlpTWm5od2MwSk5RekJ3VFdwalZETXlPRkpmVm5WQg', 'job_title': 'Sr. Full-Stack Engineer, Data Systems', 'employer_name': 'Datavations', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSau-bio2JEb6u-3SJT_xDx2oCONSAGKGUh8su&s=0', 'employer_website': 'https://www.datavations.com', 'job_publisher': 'Indeed', 'job_employment_type': 'Full-time', 'job_employment_types': ['FULLTIME'], 'job
+[2026-10-02 15:30:50]     Found 10 jobs (4 new)
+[2026-10-02 15:30:50]   Searching: 'Full Stack Developer' in ...
+[2026-10-02 15:31:02] Status Code: 200
+[2026-10-02 15:31:02] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-10-02 15:31:02] API Response Preview: {'status': 'OK', 'request_id': 'cf054833-230a-4bea-b949-da822edf836c', 'parameters': {'query': 'Full Stack Developer', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'aGJwa2h2bl82STBEY3dNVEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURVpzTjNnMFNHbHVkek5ZWkVablNXdzNkSE5qU21kUWJXVk5aV3RHUmsxTmJsQXRkMUpJVUdwV2JpMXNjRmx0Vm1OT1lWRlRZa0pDYjJaRU0xbzNaMGg1TW1KM2RqRlZjR28zTVZsT2RYTkhObnAwWVVkS2NqaFBNeTFsY1VZdGFGbE5Temd6V0RaR1QzUk5YM1YzY2xkck1sSk1UM2hhVDFKcE0yMUlaa3BEY0d3dFUyUVNGMDF6Tmw5aGRrUXRUUzFoTkcxTVVWQjVjbVZGWjBGekdpSkJSSE55T1daVVYxcFZaWHAxTW1aMU5FRnZiMWxmVWtGRmQyRnBWa2RhVEZsbg', 'job_title': 'Full-Stack Developer', 'employer_name': 'Dunhill Professional Search & Government Solutions', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFas0sgn2zqIwAEyQv15yMxKtY6fiFywQehxcY&s=0', 'employer_website': None, 'job_publisher': 'LinkedIn', 'job_employment_type': 'Full-time', 'job_employment_types': ['FULLTIME'], 'job_apply_link': 
+[2026-10-02 15:31:02]     Found 10 jobs (7 new)
+[2026-10-02 15:31:02]   Searching: 'Full Stack Engineer' in ...
+[2026-10-02 15:31:13] Status Code: 200
+[2026-10-02 15:31:13] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-10-02 15:31:13] API Response Preview: {'status': 'OK', 'request_id': '78a4eba3-72ce-43c4-85a2-92eb99a81b74', 'parameters': {'query': 'Full Stack Engineer', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'VzU5Q1phVnM1NzBQYXdqWUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVzl5Y1ZWSk9IUkNialJpY1Y5UVVtWXlkMTh3Wmtab1JEZDJha05OZEc1TmFVRXpVbmRoUWtSbVRpMTVXbU15Um1GT1dVcGlVbmcwZFdwMmEzQTVNbTUxV1ZWbmVuRTNTRkptYUZKUGNrRmlTRW80VjJWbmIzWTBRVmhKTFVWV1kyUmZSVWhRTW5Gck5VSndPV0pIZDA1V1JsVjZkVVJRTkdSbFdXMWxNa3BsUW5Rd00wOFNGMUJ6Tmw5aGRYRlpUamhpU0d0UVNWQndOamRuTUVFd0dpSkJSSE55T1daUmJYbERYMlJvTkdWYU1tMVFVblJEVG5SS1NWbEpWMEowVUd0Mw', 'job_title': 'Software Engineer - Full Stack', 'employer_name': 'Evlo AI', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGpAKUZvhmX17Nnf5WP_4Gem_g5p6qiec7HLrx&s=0', 'employer_website': 'https://evlo.ai', 'job_publisher': 'LinkedIn', 'job_employment_type': 'Full-time', 'job_employment_types': ['FULLTIME'], 'job_apply_link': 'https://www.linkedin
+[2026-10-02 15:31:13]     Found 10 jobs (8 new)
+[2026-10-02 15:31:13] 
+▶ Role: Software Engineer
+[2026-10-02 15:31:13]   Searching: 'Software Engineer' in Ohio...
+[2026-10-02 15:31:16] Status Code: 200
+[2026-10-02 15:31:16] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-10-02 15:31:16] API Response Preview: {'status': 'OK', 'request_id': '597f9060-622f-48c0-9fdb-6fc21c0b6c68', 'parameters': {'query': 'Software Engineer in Ohio', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'Um8wVWNEd1hRNWRfcElmX0FBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTbDh5V0RsRFprVnZSSGM1WVY4NVRqVjVUR3c1U1ZGWE9IZDFkVWxxVkd0RWJuWXlORTAxZVVnNVQxQjRVUzF6WXpkWlJtTnBXSFpFWWw4dGNsRjZlbU5sT0Zoa1Ywc3daMEoxUms1U1owdDZkMk56TUhsR01uY3RUVTkxU0ZoVVJFVTFTVlI2UTFrM1gzZHZOMFF3UnpSbFl6QTRZMHAwVFROb1UwOXVSV0ZNZEZJNVEyNFNGbEZ6Tmw5aGMzQllYMlo1VVRoblgzTjRXbTVCUW1jYUlrRkVjM0k1WmxGTmVtRkNhMVUwYWtaaWJIZElRME5QTlcxc1NHbExZMFV5ZUVF', 'job_title': 'Software Engineer III - Platform Application Engineer', 'employer_name': 'A-V Services, Inc.', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSqEMjzp8Z0bOCCv_R1KcLcbGbJb15VPAths0&s=0', 'employer_website': 'https://avservices.net', 'job_publisher': 'LinkedIn', 'job_employment_type': 'Full-time', 'job_employment_types': ['FULLTI
+[2026-10-02 15:31:16]     Found 10 jobs (3 new)
+[2026-10-02 15:31:16]   Searching: 'Software Developer' in Ohio...
+[2026-10-02 15:31:24] Status Code: 200
+[2026-10-02 15:31:24] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-10-02 15:31:24] API Response Preview: {'status': 'OK', 'request_id': 'e407387a-b7ee-4913-8b70-7e1c20000b6b', 'parameters': {'query': 'Software Developer in Ohio', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'TEdtdURoNkstd1RkOUZkZUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV3AzVTFJeVoxcFlXRlZoYTBGdU56QlJVVnBRWDFZeVVUWnJURnBIUlRKTFpsUldUbmxWTFZaQk4wRlVWRU5UYW5kQ2FsUlhaV055VEMwM04xZHdSa3BZYmxwMFZXNHRNelZCUjI1S0xXOWtTakpyWWtkRVEzTlhWalZPUzBka2RIRlpabmR1UlhsNlQwTnVjbmRUVW10aVlXNWpZbmRTVmxkUVdqbHdjVTFyWlhOUlNFTVNGMU5OTmw5aGRESlhUMjkxUXpCUVJWQTRjMWRmYlZFd0dpSkJSSE55T1daVFRFZDNlVjlCTTFRMWFEWlRkMVJVVTJZNFIyUnlYMWxQVm1OQg', 'job_title': 'Software Engineer/Developer Cloud  Native', 'employer_name': 'Maintec Technologies Inc', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZBBzZ16TOFRpyk7DY4phNpSySDV8gyAoh-tw3&s=0', 'employer_website': 'https://maintec.com', 'job_publisher': 'Dice', 'job_employment_type': 'Contractor', 'job_employment_types': ['CONTRACTOR'], '
+[2026-10-02 15:31:24]     Found 10 jobs (4 new)
+[2026-10-02 15:31:24]   Searching: 'Software Engineer' in Cincinnati...
+[2026-10-02 15:31:28] Status Code: 200
+[2026-10-02 15:31:28] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-10-02 15:31:28] API Response Preview: {'status': 'OK', 'request_id': '0a56d07a-6130-4cc9-839a-c384c92dc7e0', 'parameters': {'query': 'Software Engineer in Cincinnati', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'bldPRjJQejBrT2hjZkdIM0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbWRzWnpSbGQyUjRTMmMyZG01aU1rUTFWVGxtVFVFdFNYQmtOMDV4TUc5NldVRk5WV1phZEhNM1pXaENNMmR6Tm14cGJFZERlV1ptYTIxaVl6TkJia3BEUTNSWlZYQXlkRGhJZWpONVFWQjZObGxtTmpVNVRIaHZlVmxNWDNKSFVsaHFhVGxvVFRkNFRuVkJhRlIxZDFaU2NIWmFUVlJUVVRreGIxVXRiRFF4Y213emFXTVNGMVJqTmw5aGRVdDJRalZmUjJrdFoxQnhZWHB3Y1VFd0dpSkJSSE55T1daU2NtWk5jbkZCUzFGdWEyUmpOMWRoTVRsMWVXaEhRMFl5TTE5Qg', 'job_title': 'Software Engineer III', 'employer_name': 'Toshiba Global Commerce Solutions - External', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz0XBd7YtBqig2uqnE9l_01iLn096A_JR3QOLR&s=0', 'employer_website': None, 'job_publisher': 'Indeed', 'job_employment_type': 'Full-time', 'job_employment_types': ['FULLTIME'], 'job_apply_lin
+[2026-10-02 15:31:28]     Found 10 jobs (4 new)
+[2026-10-02 15:31:28]   Searching: 'Software Developer' in Cincinnati...
+[2026-10-02 15:31:43] [ERROR] API failed: HTTPSConnectionPool(host='jsearch.p.rapidapi.com', port=443): Read timed out. (read timeout=15)
+[2026-10-02 15:31:43]     Found 0 jobs (4 new)
+[2026-10-02 15:31:43]   Searching: 'Software Engineer' in ...
+[2026-10-02 15:31:56] Status Code: 200
+[2026-10-02 15:31:56] Keys returned: ['status', 'request_id', 'parameters', 'data']
+[2026-10-02 15:31:56] API Response Preview: {'status': 'OK', 'request_id': 'f7672815-516a-4fbd-8820-87e8aebd93d0', 'parameters': {'query': 'Software Engineer', 'num_pages': 1, 'date_posted': 'all', 'country': 'us', 'language': 'en'}, 'data': {'jobs': [{'job_id': 'WThiTU5QeWp0bEhEWXNOVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURmhUYmpOQlFWZE9SMUV4ZFZwS1ZVZGtja0p6YWpCc1pEUXphV2xqWkY4MU5qWjFkamxKUlhOT2RXSXhhV05JTjJoQk9VVkdRVXBUZVdGdllqZGxaMHBXYUZrd2RrWjZURkJoTXpob1JqRjViVVZpY0dwSFZtWndZM2xKUWxwM2QzTlJaalo2YUZWa1V6ZE5VVWQyYWkxR0xYVktPRE5wYzNsZlRYQkdWRVZ5Wm5wcFNHa1NGMW80Tmw5aGRDMUVRamxmVlRGelVWQXpPREowZVZGSkdpSkJSSE55T1daVE4zSTRVV1ZJWldaamIwTkxjRTVUUmpGekxVMU9WMkpRTFV0Qg', 'job_title': 'Principal Software Engineer - TS/SCI', 'employer_name': 'VMD Corp', 'employer_logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw3vKjvRV3bBH9-64THon_iy0qQMfuCq893rFp&s=0', 'employer_website': 'https://vmdcorp.com', 'job_publisher': 'LinkedIn', 'job_employment_type': 'Full-time', 'job_employment_types': ['FULLTIME'], 'job_apply_link': 'https://www
+[2026-10-02 15:31:56]     Found 10 jobs (7 new)
+[2026-10-02 15:31:56]   Searching: 'Software Developer' in ...
+[2026-10-02 15:31:57] Status Code: 429
+[2026-10-02 15:31:57] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-10-02 15:31:57]     Found 0 jobs (7 new)
+[2026-10-02 15:31:57] 
+▶ Role: Data Engineer
+[2026-10-02 15:31:57]   Searching: 'Data Engineer' in Ohio...
+[2026-10-02 15:31:57] Status Code: 429
+[2026-10-02 15:31:57] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-10-02 15:31:57]     Found 0 jobs (0 new)
+[2026-10-02 15:31:57]   Searching: 'ETL Developer' in Ohio...
+[2026-10-02 15:31:57] Status Code: 429
+[2026-10-02 15:31:57] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-10-02 15:31:57]     Found 0 jobs (0 new)
+[2026-10-02 15:31:57]   Searching: 'Data Engineer' in Cincinnati...
+[2026-10-02 15:31:57] Status Code: 429
+[2026-10-02 15:31:57] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-10-02 15:31:57]     Found 0 jobs (0 new)
+[2026-10-02 15:31:57]   Searching: 'ETL Developer' in Cincinnati...
+[2026-10-02 15:31:57] Status Code: 429
+[2026-10-02 15:31:57] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-10-02 15:31:57]     Found 0 jobs (0 new)
+[2026-10-02 15:31:57]   Searching: 'Data Engineer' in ...
+[2026-10-02 15:31:57] Status Code: 429
+[2026-10-02 15:31:57] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-10-02 15:31:57]     Found 0 jobs (0 new)
+[2026-10-02 15:31:57]   Searching: 'ETL Developer' in ...
+[2026-10-02 15:31:57] Status Code: 429
+[2026-10-02 15:31:57] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-10-02 15:31:57]     Found 0 jobs (0 new)
+[2026-10-02 15:31:57] 
+▶ Role: Data Analyst
+[2026-10-02 15:31:57]   Searching: 'Data Analyst' in Ohio...
+[2026-10-02 15:31:57] Status Code: 429
+[2026-10-02 15:31:57] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-10-02 15:31:57]     Found 0 jobs (0 new)
+[2026-10-02 15:31:57]   Searching: 'Business Analyst' in Ohio...
+[2026-10-02 15:31:57] Status Code: 429
+[2026-10-02 15:31:57] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-10-02 15:31:57]     Found 0 jobs (0 new)
+[2026-10-02 15:31:57]   Searching: 'Data Analyst' in Cincinnati...
+[2026-10-02 15:31:58] Status Code: 429
+[2026-10-02 15:31:58] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-10-02 15:31:58]     Found 0 jobs (0 new)
+[2026-10-02 15:31:58]   Searching: 'Business Analyst' in Cincinnati...
+[2026-10-02 15:31:58] Status Code: 429
+[2026-10-02 15:31:58] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-10-02 15:31:58]     Found 0 jobs (0 new)
+[2026-10-02 15:31:58]   Searching: 'Data Analyst' in ...
+[2026-10-02 15:31:58] Status Code: 429
+[2026-10-02 15:31:58] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-10-02 15:31:58]     Found 0 jobs (0 new)
+[2026-10-02 15:31:58]   Searching: 'Business Analyst' in ...
+[2026-10-02 15:31:58] Status Code: 429
+[2026-10-02 15:31:58] Response: {"message":"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\/\/rapidapi.com\/letscrape-6bRBa3QguO5\/api\/jsearch"}
+[2026-10-02 15:31:58]     Found 0 jobs (0 new)
+[2026-10-02 15:31:58] 
+======================================================================
+[2026-10-02 15:31:58] Total API results: 100
+[2026-10-02 15:31:58] New jobs found: 15
+[2026-10-02 15:31:58] ✓ Saved 15 jobs to jobs_scheduled.csv
+[2026-10-02 15:31:58] Total jobs in database: 2334
+[2026-10-02 15:31:58] ======================================================================
+[2026-10-02 15:31:58] ✓ Run Complete
+[2026-10-02 15:31:58] ======================================================================
