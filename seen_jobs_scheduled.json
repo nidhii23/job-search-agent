@@ -10407,6 +10407,334 @@
     "2a44a80bbdf676b9c274c8ed49308113": {
       "title": "Principal Business Analyst \u2013 Oracle EBS",
       "company": "Apt"
+    },
+    "caeef01c63f80690192fc7e043ed5dab": {
+      "title": "Full Stack Software Engineer (Golang Focus)",
+      "company": "Trinzic"
+    },
+    "7afe5b8b0776bf9466cc2e27b9648d30": {
+      "title": "Full Stack Java Developer",
+      "company": "Proteam Solutions"
+    },
+    "05aea89dbececcd81ddf2fc099c3193e": {
+      "title": "Senior Full-Stack Engineer (Node/React) \u2013 Hybrid Role",
+      "company": "Progressive Insurance"
+    },
+    "085e158b8346d3590caa4ccfee8588ac": {
+      "title": "Full Stack Developer",
+      "company": "Stanley Black & Decker"
+    },
+    "36c9eb89f2a87b4afa10bf2fa3b2afe7": {
+      "title": "Full Stack Developer + AWS",
+      "company": "People Consultancy Services (PCS)"
+    },
+    "6f030fec28d3ce53c43ebc06ff2c0d4b": {
+      "title": "Senior Java Full Stack Engineer \u2013 Spring Boot, React/Angular, AWS",
+      "company": "Cognizant"
+    },
+    "ed920a6c81b30214245768d5a52c35a4": {
+      "title": "Principal Full Stack Engineer: Cloud, Microservices & Java",
+      "company": "Compunnel Inc."
+    },
+    "8f88a13fadff502b6b223447a8c603e5": {
+      "title": "Full-Stack Engineer",
+      "company": "Awetomaton, Ltd."
+    },
+    "e0388d3bb83bc368e4b2a61a67e03d6d": {
+      "title": "Java Full Stack Engineer",
+      "company": "Tata Consultancy Services"
+    },
+    "764f19092d052a4c56f2f27485831ab9": {
+      "title": "Full Stack Engineering",
+      "company": "Accenture"
+    },
+    "0629579b55a132393154df96f390204c": {
+      "title": "Senior Top Secret Full-Stack Engineer (On-Site)",
+      "company": "Thazen, LLC"
+    },
+    "72d53433bb3b7bd7c4a904fde07d3cc1": {
+      "title": "Senior Full Stack Developer with Security Clearance",
+      "company": "GCyber"
+    },
+    "12f81d070993b838479d51c316766e3d": {
+      "title": "Full Stack Python/DevOps Developer",
+      "company": "Futrend Technology, Inc."
+    },
+    "d84828cda5f55cdd334d17dcb194985d": {
+      "title": "AI Full Stack Developer",
+      "company": "CGI Group, Inc."
+    },
+    "8ca7f707e259bed5bee7a2a8b53e3787": {
+      "title": "Senior Full Stack Developer",
+      "company": "Base-2 Solutions"
+    },
+    "0c37b0ea1f5378bf19064d7b340d2296": {
+      "title": "Senior Full-Stack Java Developer",
+      "company": "Oraapps Inc"
+    },
+    "90c10192542bf9f7656b853adb5ea01f": {
+      "title": "Full Stack Engineer - Innovation & Rapid Prototyping",
+      "company": "Kentro"
+    },
+    "5fc01b67f2a3c78eb50b73a2f40f5f85": {
+      "title": "Full-stack Engineer 4",
+      "company": "Capital One"
+    },
+    "acf4c0104b7f0fc3864bd9e6799757e6": {
+      "title": "Senior Full-Stack Engineer: AI & Cloud Platform",
+      "company": "Pearson"
+    },
+    "e43042fb9fe51e1fd983d0b09208ceca": {
+      "title": "Sr. Software Engineer, Identity & Access Management",
+      "company": "MCKESSON"
+    },
+    "72861496904f89af255b71b5c1735378": {
+      "title": "Engineer Sr \u2013 Software (CONTINGENT)",
+      "company": "BAE Systems"
+    },
+    "0e727610ba788e867409fde276394a15": {
+      "title": "Software Engineer - Remote",
+      "company": "Emerald Resource Group"
+    },
+    "b96beec95e637acfd39523f1b0d04e05": {
+      "title": "Specialist, Software Engineering",
+      "company": "L3Harris Technologies"
+    },
+    "c4938341d3516edcc8b75510e934ea68": {
+      "title": "Principal Software Engineer",
+      "company": "People In AI"
+    },
+    "b768b9ff025bec46238e717b833072eb": {
+      "title": "Senior Software Engineer",
+      "company": "CVS Health"
+    },
+    "920ecf57817e67777759eab0a4388d3e": {
+      "title": "Senior Dotnet Developer",
+      "company": "Central Point Partners"
+    },
+    "ccc60ed8c1685111c84537bc7530bb3e": {
+      "title": "Software Engineer 2 (.NET Developer - Finance Technology)",
+      "company": "U.S. Bank"
+    },
+    "760e6ac5371ed18a6e7c83b21cda0eb8": {
+      "title": "Mid-Level Software Engineer",
+      "company": "Tangram Flex"
+    },
+    "fffd2d96c5356c83515dab25b40f2307": {
+      "title": "Software Developer",
+      "company": "Winsupply"
+    },
+    "0f1924325ffaa3eda6a08fe7e1b6a22f": {
+      "title": "Software Engineer - Full Stack",
+      "company": "Global Payment Holding Company"
+    },
+    "c40481aa527fc92c25de861f80b4d4ac": {
+      "title": "Software Engineer in Test",
+      "company": "Ascendum System Private Limited"
+    },
+    "bf990ae431b3ce3f1c3ffcdbc3bdf532": {
+      "title": "Software Engineer Senior - Backend (.Net)",
+      "company": "Global Payment Holding Company"
+    },
+    "66e4dcda4f45d8f7a22460a4a311d979": {
+      "title": "Senior Software Engineer, TVision - Cincinnati, Ohio, US",
+      "company": "Viant Technology"
+    },
+    "dc66ff912ee146c05ca51779b23fddf0": {
+      "title": "Software Engineer in Test at Ascendum Solutions - Cincinnati, Ohio",
+      "company": "Ascendum Solutions"
+    },
+    "855f258dfdf9f4d0870984c8698b7755": {
+      "title": "Software Engineer (data processing and fusion)",
+      "company": "Graham Staffing Services"
+    },
+    "0e8f01984ff251746de57781295778da": {
+      "title": "Staff Software Engineer, Product Platform",
+      "company": "Cape"
+    },
+    "983e188b556f85246253ddffc2328edf": {
+      "title": "Software Engineer (Python, AWS)",
+      "company": "OpenDataJobs"
+    },
+    "405ddf2a4a754967e78089520c4b16fc": {
+      "title": "Sr. Software Developer/Scrum Master",
+      "company": "Zachary Piper Solutions"
+    },
+    "3e6c275aa1bf2a9ca99fc7069100271a": {
+      "title": "Forward Deployed Software Engineer",
+      "company": "Stem IT"
+    },
+    "567fb5a30b5b5825969fe33cdd7b4dfb": {
+      "title": "Software Engineer \u2013 Developer Experience & AI Platform",
+      "company": "ID.me"
+    },
+    "87146da15e1bedbc70c80d4fae2f0c9a": {
+      "title": "Software Developer at Booz Allen Hamilton Alexandria, VA",
+      "company": "Booz Allen Hamilton"
+    },
+    "80b27dd9a3060fbc644618a278918550": {
+      "title": "Senior Software Developer",
+      "company": "CACI"
+    },
+    "b5bb3d486b32b09daa87a89d1739d51e": {
+      "title": "Data Engineer II (Full Time) - United States - Cincinnati, Ohio, US",
+      "company": "Cisco Systems"
+    },
+    "2e7b200da7b41889a6dd03fe69e8ac2a": {
+      "title": "Data Engineer II (Full Time) - United States - Cisco Systems",
+      "company": "Cisco Systems"
+    },
+    "22a5624173a7dc9ee51098a8beedaf85": {
+      "title": "Data Engineer II (Full Time) - United States - Cisco Systems",
+      "company": "Cisco Systems"
+    },
+    "d706dd8caed06fa95421cfc6b65294a0": {
+      "title": "Sr. Data Engineer, Data Engineering",
+      "company": "Cardinal Health"
+    },
+    "157eedaa115c22ff5ad515844ef7dfe7": {
+      "title": "Enterprise Data Engineer Jobs",
+      "company": "Riverside Research"
+    },
+    "7a4385b30ad040eedd37c0b2bde35701": {
+      "title": "Data Engineering, Management,",
+      "company": "Accenture"
+    },
+    "957f294d7f32fe8e42fd96e138dc04c4": {
+      "title": "Mid - Senior MS SQL Engineer - ETL & Data Integration",
+      "company": "InventYOU AB"
+    },
+    "2210c042a130defa324626d6caa6a3c5": {
+      "title": "Data Warehouse Engineer",
+      "company": "Thompson Hine LLP"
+    },
+    "5ee6392158d2003378d4ec42e4349cee": {
+      "title": "Senior ETL",
+      "company": "Central Point Partners, LLC"
+    },
+    "2cebad5be3b2f44aaaf434a8abaa9ab0": {
+      "title": "Senior Data Engineer - Wealth & Trust Modernization",
+      "company": "Software Guidance & Assistance"
+    },
+    "c718dd07aee59e2e5506aaa47c97e22b": {
+      "title": "Data Engineer (w2 only)",
+      "company": "SSi People"
+    },
+    "15678baa76206853d5c027e6ae501494": {
+      "title": "Data Engineer II - Databricks Jobs",
+      "company": "Deloitte"
+    },
+    "5b11b47be86a42b9e2eda7f5786ca415": {
+      "title": "Manager of Data Engineering",
+      "company": "Northrop Grumman"
+    },
+    "2213277c0fa94dc319f76d6c6c17761b": {
+      "title": "Data Engineer (Spark / Databricks / Snowflake)",
+      "company": "Randstad USA"
+    },
+    "e34c9e57f65b751436d2e36a55a1f69e": {
+      "title": "Data Eng",
+      "company": "BAE Systems Inc."
+    },
+    "b5d553bcb2aeaf4c9b4191cb060091f2": {
+      "title": "Senior Integration and Data Engineer",
+      "company": "Union Plus"
+    },
+    "5538ab6fc2d501f961ee863919a007b3": {
+      "title": "ETL Developer",
+      "company": "US132 Guidehouse Digital, LLC"
+    },
+    "a751a5b97aba88abf1ccac91eccd8414": {
+      "title": "Business/Data Analyst - Property & Casualty (P&C) Insurance",
+      "company": "Cognizant"
+    },
+    "3d45c04721d6553770c398fc8b7b6f92": {
+      "title": "Data Analyst",
+      "company": "Ringside Talent"
+    },
+    "d79989b065ade8fff2041fff68c83e18": {
+      "title": "Business/Data Analyst - Property & Casualty (P&C) Insurance",
+      "company": "Cognizant Technology Solutions Corp"
+    },
+    "0f5cf568a1997f0e2c41c473e6f0da18": {
+      "title": "Senior TM Sales Data and Insights Analyst",
+      "company": "Huntington"
+    },
+    "d611ad1215ccaf799f440414b11ff7ee": {
+      "title": "Data Analyst at Element Technologies - Cincinnati, Ohio",
+      "company": "Element Technologies"
+    },
+    "48ccfdaf54c32ced72bd884747492afb": {
+      "title": "Sr. Business Analyst - Business Banking",
+      "company": "KeyBank"
+    },
+    "3c9c45d25db98d7553d5297d0d0f8198": {
+      "title": "Lead Analyst, Business Intelligence - Remote",
+      "company": "ConsultNet Technology Services and Solutions"
+    },
+    "fefa3ff48d87b8f7375e0bb271c86b00": {
+      "title": "Sr. Data Analyst",
+      "company": "PatientPoint"
+    },
+    "b8e7cc08d6f4946de1b071de7fd058f0": {
+      "title": "Reporting & Analytics Analyst",
+      "company": "U.S. Bank"
+    },
+    "30c0d3548a1d8ce2d4de84aa8ea368ae": {
+      "title": "Senior Business Systems Analyst - API's",
+      "company": "Global Payment Holding Company"
+    },
+    "198193794347aacdf041eaf9af955923": {
+      "title": "Business Analyst",
+      "company": "Core Specialty"
+    },
+    "412749ae95c7219577e68d0046dfbadc": {
+      "title": "NA Fem Care Analytics & Insights Business and Customer Senior Analyst",
+      "company": "Procter & Gamble"
+    },
+    "998fbd4283570f2cbfb31b9ed54ef795": {
+      "title": "ERP Business Analyst",
+      "company": "Raymond Storage Concepts"
+    },
+    "e7d235bd0287d80e5146e66283665e8c": {
+      "title": "Data Analyst Supporting the FBI",
+      "company": "FSA Federal"
+    },
+    "1950ad613304404fc70745bb281bd3a7": {
+      "title": "Data Analyst, Operations",
+      "company": "Rocket Money"
+    },
+    "e6387434907db1ef803a975fa1401bf6": {
+      "title": "Intelligence Data Analyst",
+      "company": "Mayvin, Inc."
+    },
+    "7c8a297790e6977e5a836ee636fa5a3b": {
+      "title": "Data Analyst/Data & Measurement Analyst",
+      "company": "Logistics Management Institute"
+    },
+    "9249f023a14113802dc8655edfee41a2": {
+      "title": "Jr. Data Analyst | Insight Global | Handshake",
+      "company": "Insight Global"
+    },
+    "f3776f518da1835aa5b1b26deecefc3e": {
+      "title": "Data Analyst Jobs",
+      "company": "Booz Allen Hamilton"
+    },
+    "3e32fc7d7315f48273ea005f53e3693d": {
+      "title": "Lead Business Analyst",
+      "company": "Guidehouse"
+    },
+    "f5c63c832a4d0e9ec6e7496493ad9d0f": {
+      "title": "Program & Business Analyst, Technology Modernization",
+      "company": "Network Designs, Inc."
+    },
+    "d1155b9edc1f238bcdc17b2e26fb87e5": {
+      "title": "Business Analyst - TS/SCI",
+      "company": "ENS Solutions, LLC"
+    },
+    "0d6bc3cb239c0016802072e0e2167982": {
+      "title": "Business Analyst - Junior",
+      "company": "EXECUTIVE 1 HOLDING COMPANY"
     }
   }
 }
